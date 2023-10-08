@@ -5,7 +5,7 @@ title: Book
 nav: true
 ---
 
-The book **Introduction to Transfer Learning** written by Jindong Wang and Yiqiang Chen, is publised by [Springer Nature](https://link.springer.com/book/9789811975837) in 2023. 
+The book **Learning** written by Quanlong is publised by [Springer Nature](https://link.springer.com/book) in 2023. 
 
 <img src = "https://wjdcloud.blob.core.windows.net/tools/tlbook-v1-cover.jpg" align = "right" width = "200" height="270">
 
