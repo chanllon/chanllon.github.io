@@ -18,7 +18,7 @@ Professor, Jinan University<br>
 College of Information Science and Technology,<br>
 Guangdong Institute of Smart Education, Tianhe District, Guangzhou, China<br>
 gql [at] jnu.edu.cn <br>
-[Jnu](https://faculty.jnu.edu.cn/xxkxjsxy/gql/list.psp) | [Google scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN)  | [Github](https://github.com/chanllon) || [scholat (Chinese)](https://www.scholat.com/guan) | [DBLP](https://dblp.org/pid/61/7717.html) | [Orcid](https://space.bilibili.com/477087194) || [CV](https://go.jd92.wang/cv) 
+[Jnu](https://faculty.jnu.edu.cn/xxkxjsxy/gql/list.psp) | [Google scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN)  | [Github](https://github.com/chanllon) || [Scholat (Chinese)](https://www.scholat.com/guan) | [DBLP](https://dblp.org/pid/61/7717.html) | [Orcid](https://space.bilibili.com/477087194) || [CV](https://go.jd92.wang/cv) 
 
 Dr. Quanlong Guan is currently a Full Professor at Jinan University. He visited Sencun Zhu’s group at The Pennsylvania State University in 2012. His research interest includes robust machine learning, Data Security, semi-supervised learning, recommendation systems and multimodal learning. He has published over 50 papers at leading conferences and journals such as AAAI, ICCV, CIKM, RESS, PR etc. He has 1 highly cited papers in [Google Scholar metrics](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=v4JiSqsAAAAJ&citation_for_view=v4JiSqsAAAAJ:HDshCWvjkbEC). He serves as PC members for top conferences like AAAI, NeurIPS, IJCAI, WSDM etc. He lead several high-value projects, such as multimodal learning, recommendation systems, and Data security. 
 
