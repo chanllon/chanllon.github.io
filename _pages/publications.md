@@ -12,7 +12,7 @@ nav: true
 #### Preprints
 
 - VSRQ: Quantitative Assessment Method for Safety Risk of Vehicle Intelligent Connected System. Tian Zhang, Wenshan Guan, Hao Miao, Xiujie Huang, Zhiquan Liu, Chaonan Wang, Quanlong Guan, Liangda Fang, Zhifei Duan. [[arxiv](https://arxiv.org/abs/2305.01898)]
-- A Survey on Evaluation of Large Language Models. Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie. [[arxiv](https://arxiv.org/abs/2307.03109)] [[code](https://github.com/MLGroupJLU/LLM-eval-survey)]
+- Cognitive Diagnosis Focusing on Knowledge Concepts. Sheng Li, Quanlong Guan, Liangda Fang, Fang Xiao, Zhenyu He, Yizhou He, Weiqi Luo. [[Doi](https://dl.acm.org/doi/abs/10.1145/3511808.3557096)] [[code](https://github.com/chanllon)]
 
 #### Books
 
