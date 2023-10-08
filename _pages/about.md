@@ -24,6 +24,6 @@ Dr. Quanlong Guan is currently a Full Professor at Jinan University. He visited 
 
 **Research interest:** Machine learning, multimodal learning,  semi-supervised learning, recommendation systems, and related applications such as activity recognition, smart education and computer vision. These days, I'm particularly interested in Large Language Models (LLMs) [evaluation](https://llm-eval.github.io/) and [robustness enhancement](https://llm-enhance.github.io/). See this [page](https://chanllon.github.io/research/) for more details. *Interested in [internship](https://www.scholat.com/vpost.html?pid=217741) or [collaboration](https://www.scholat.com/vpost.html?pid=217010)? Contact me.*
 
-**Announcement:** I'm experimenting a new form of research collaboration. You can click [here]() gql@jnu.edu.cn if you are interested!
+**Announcement:** I am actively seeking Ph.D. students. If you are interested in collaborating with me, please don't hesitate to reach out. However, please be aware that I receive a high volume of emails daily, which may lead to some delays in my response. Your patience in this regard is greatly appreciated. Thank you. You can click [here]() gql@jnu.edu.cn if you are interested!
 
 
