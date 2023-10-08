@@ -5,12 +5,12 @@ permalink: /students/
 nav: true
 ---
 
-#### Interns at MSRA
+#### Post-Doc 
 
-Current interns:
+Current Post-Doc:
 
-- 2023.05 -- present, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University.
-- 2023.09 -- present, Cheng Li, master @ Institute of Software, CAS.
+- 2022.05 -- present, [Gaobo Chen](https://uk.linkedin.com/in/gaobo-chen-8b7483110), PhD @ Coventry University.
+- 2022.09 -- present, Cheng Li, master @ Institute of Software, CAS.
 
 Alumni:
 
