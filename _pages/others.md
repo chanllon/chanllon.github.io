@@ -5,14 +5,14 @@ permalink: /students/
 nav: true
 ---
 
-#### Post-Doc 
+#### Post-Doc :
 
 Current Post-Doc:
 
 - 2022.05 -- present, [Gaobo Chen](https://uk.linkedin.com/in/gaobo-chen-8b7483110), PhD @ Coventry University.
 - 2022.09 -- present, Zhiyuan Xun, PhD @ Beijing Jiaotong University.
 
-Alumni:
+#### Alumni :
 
 - 2019.09 -- 2022.06, Xianbin Ye, Master @ Jinan University.
   - Topics: Artificial Intelligence Drug Generation.
@@ -24,7 +24,7 @@ Alumni:
 
 
 
-#### Collaborating students
+#### Collaborating students :
 
 - Ph.D students : Xiuliang Duan, Master @ Shandong University of Science and Technology.
 - Ph.D student : Xinghe Cheng, Master @ Guilin University Of Electronic Technology.
