@@ -16,7 +16,8 @@ social: true  # includes social icons at the bottom of the page
 
 Professor, Jinan University<br>
 College of Information Science and Technology,<br>
-Guangdong Institute of Smart Education, Tianhe District, Guangzhou, China<br>
+Guangdong Institute of Smart Education, <br>
+Jinan University, Tianhe District, Guangzhou, China<br>
 gql [at] jnu.edu.cn <br>
 [Jnu](https://faculty.jnu.edu.cn/xxkxjsxy/gql/list.psp) | [Google scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN)  | [Github](https://github.com/chanllon) || [Scholat (Chinese)](https://www.scholat.com/guan) | [DBLP](https://dblp.org/pid/61/7717.html) | [Orcid](https://space.bilibili.com/477087194) || [CV](https://go.jd92.wang/cv) 
 
