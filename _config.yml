@@ -132,10 +132,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-keep_files:
-  - CNAME
-  - .nojekyll
-  - .git
 
 # Plug-ins
 plugins:
