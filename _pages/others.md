@@ -19,8 +19,9 @@ Alumni:
   - Outcomes during Master Stage: Pattern Recognition [Drug Discovery](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001406). *Excellent master student.*
 - 2020.09 -- 2023.07, Junmin Qiu, Master @ Jinan University. Now: Ph.D @ Sun Yat-Sen University.
   - Topics: Knowledge Compilation.
- - Outcomes during Master Stage: AAAI'22 [Logical Separability](https://doi.org/10.1609/aaai.v36i5.20529). *Excellent master student.*
+  - Outcomes during Master Stage: AAAI'22 [Logical Separability](https://doi.org/10.1609/aaai.v36i5.20529). *Excellent master student.*
  - 
+
 
 
 #### Collaborating students
