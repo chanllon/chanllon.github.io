@@ -21,6 +21,8 @@ Alumni:
   - Topics: Knowledge Compilation.
  - Outcomes during Master Stage: AAAI'22 [Logical Separability](https://doi.org/10.1609/aaai.v36i5.20529). *Excellent master student.*
  - 
+
+
 #### Collaborating students
 
 - Ph.D students : Xiuliang Duan, Master @ Shandong University of Science and Technology.
