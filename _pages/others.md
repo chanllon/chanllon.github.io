@@ -28,5 +28,5 @@ Current Post-Doc:
 
 - Ph.D students : Xiuliang Duan, Master @ Shandong University of Science and Technology.
 - Ph.D student : Xinghe Cheng, Master @ Guilin University Of Electronic Technology.
-- Master student: XuFang Zhang, Bachelor @ Xiangtan University.
+- Master student: XuFang Zhou, Bachelor @ Xiangtan University.
 
