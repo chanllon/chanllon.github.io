@@ -14,7 +14,7 @@ nav: true
 - VSRQ: Quantitative Assessment Method for Safety Risk of Vehicle Intelligent Connected System. Tian Zhang, Wenshan Guan, Hao Miao, Xiujie Huang, Zhiquan Liu, Chaonan Wang, Quanlong Guan, Liangda Fang, Zhifei Duan. [[arxiv](https://arxiv.org/abs/2305.01898)]
 - Cognitive Diagnosis Focusing on Knowledge Concepts. Sheng Li, Quanlong Guan, Liangda Fang, Fang Xiao, Zhenyu He, Yizhou He, Weiqi Luo. [[Doi](https://dl.acm.org/doi/abs/10.1145/3511808.3557096)] [[code](https://github.com/chanllon)]
 
-#### Books
+<!-- #### Books
 
 <div class="publications">
 
@@ -22,7 +22,7 @@ nav: true
   {% bibliography -f books -q @*[year={{y}}]* %}
 {% endfor %}
 
-</div>
+</div> -->
 
 #### Papers
 
