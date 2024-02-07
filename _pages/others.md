@@ -24,9 +24,27 @@ Current Post-Doc:
 
 
 
-#### Collaborating students :
+#### Collaborating students : 
 
-- Ph.D students : Xiuliang Duan, Master @ Shandong University of Science and Technology.
-- Ph.D student : Xinghe Cheng, Master @ Guilin University Of Electronic Technology.
-- Master student: XuFang Zhou, Bachelor @ Xiangtan University.
+Ph.D student :
+
+- Xiuliang Duan, Master @ Shandong University of Science and Technology.
+- Delong Li, Master @ Hong Kong Baptist University.
+- Xinghe Cheng, Master @ Guilin University Of Electronic Technology.
+- Cheng Liu, Master @ Guangzhou University.
+
+
+
+Master student :
+
+
+- XuFang Zhou, Bachelor @ Xiangtan University.
+- Zhuzhou Li, Bachelor @ North China University of Water Resources and Electric Power.
+- Zhijian Yi, Bachelor @ Jinan University.
+- Xiaotin Xie, Bachelor @ Jimei University.
+- Jiandon He, Bachelor @ Jinan University.
+- Datin Tan, Bachelor @ Jinan University.
+- Zihan Zhang, Bachelor @ Foshan University.
+- Min Zhan, Bachelor @ Changsha University of Science & Technology.
+- Yue Xu, Bachelor @ Hunan University of Science and Technology.
 
