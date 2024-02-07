@@ -47,4 +47,4 @@ Master student :
 - Zihan Zhang, Bachelor @ Foshan University.
 - Min Zhan, Bachelor @ Changsha University of Science & Technology.
 - Yue Xu, Bachelor @ Hunan University of Science and Technology.
-
+- Jin Ton, Bachelor @ Changsha University of Science & Technology.
