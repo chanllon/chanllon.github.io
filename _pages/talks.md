@@ -12,5 +12,5 @@ nav: true
 
 #### Invited talks
 
-- Invited talk: **knowledge Tracing learning models**, at [ChineseCSCW 2022](https://www.scholat.com/vpost.html?pid=204908), Taiyuan, China. Nov 2022.
+- **knowledge Tracing learning models**, at [ChineseCSCW 2022](https://www.scholat.com/vpost.html?pid=204908), Taiyuan, China. Nov 2022.
 
