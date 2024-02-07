@@ -18,6 +18,9 @@ nav: true
 - **A Practical Framework of Blockchain in IoT Information Management**，at 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Oahu, HI, USA, October 2023,（Quanlong Guan and Jiawei Lei）.
 - **Exploiting the Potential Anomaly Detection in Automobile Safety Data with Multi-type Neural Network**，at 20th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services （MobiQuitous 2023）, Melbourne, Australia, November 2023,（Quanlong Guan and Tian Zhang）.
 - **Efficient Parcel Damage Detection via Faster R-CNN: A Deep Learning Approach for Logistical Parcels' Automated  Inspection**, at EAI MobiQuitious 2023, Melbourne, Australia, Nov 2023,（Quanlong Guan and Zhi Chen）.
+- **A Retrospect to Multi-prompt Learning across Vision and Language**, at ICCV 2023, Paris, France, October 2023.
+- **KG4Ex: An Explainable Knowledge Graph-Based Approach for Exercise Recommendation**, at CIKM '23: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management, Birmingham, United Kingdom, October, 2023,
+（Quanlong Guan and Xinghe Cheng）.
 - **Deformation and Penetration Hybrid Detection-Net for Parcels Inspection in Industrial Supply Chain**, at ICASSP 2024, Seoul, Korea, April 2024,（Accepted）.
 - **YTCNet: A Real-time Algorithm for Parcel Damage Detection with Rich Features and Attention**, at CSCWD 2024, Tianjin, China, May 2024,（Accepted）.
 
