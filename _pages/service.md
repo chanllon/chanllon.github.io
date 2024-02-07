@@ -14,7 +14,7 @@ nav: true
   - IEEE/CAA Journal of Automatica Sinica, IEEE Transactions on SMC, TLT, IEEE Transactions on Industrial Electronics, TMC, SoftwareX, ACM ToIS, IEEE TBD, Knowledge-Based Systems, Wireless Personal Communications,.
 - Membership: 
   - Member of CCF Technical Committee Computer Application (TCCA)
-  - Member of CCF technical committee HPC (TCHPC)
+  - Member of CCF Technical Committee HPC (TCHPC)
   - Senior Member of the Chinese Institute of Electronics
   - CCF Distinguished member
 
