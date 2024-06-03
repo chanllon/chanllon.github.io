@@ -48,3 +48,21 @@ Master student :
 - Min Zhan, Bachelor @ Changsha University of Science & Technology.
 - Yue Xu, Bachelor @ Hunan University of Science and Technology.
 - Jin Ton, Bachelor @ Changsha University of Science & Technology.
+
+Graduated Student :
+- Yuan Wang, Master @ Bank of Communications Co., Ltd.
+- Yuchun Zhong, Master @ China Construction Bank.
+- Deyuan Zhong, Master @ Kingsoft Corporation Limited.
+- Jinneng He, Master @ Huawei Technologies Co., Ltd.
+- Zhonghu Lin, Master @ China National Nuclear Corporation.
+- Jianwei Gan, Master @ Tencent Technology (Shenzhen) Company Limited.
+- Kaiquan Bian, Master @ Taobao and Tmall Group.
+- Xing He, Master @ Huawei Technologies Co., Ltd.
+- Fang Xiao, Master @ China Construction Bank.
+- Yanchong Yu, Master @ BYD Company Limited.
+- Wenzhuo Yang, Master @ Beijing Science and Technology Co., three fast online.
+- Shikang Chen, Master @ Huawei Technologies Co., Ltd.
+- Jiawei Lei, Master @ Liby Science and Technology.
+- WONG HOCK ZHI, Master @ Jinan University.
+- Guanzhi Chen, Master @ Jinan University.
+
