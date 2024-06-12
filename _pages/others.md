@@ -49,7 +49,7 @@ Master student :
 - Yue Xu, Bachelor @ Hunan University of Science and Technology.
 - Jin Ton, Bachelor @ Changsha University of Science & Technology.
 
-Graduated Student :
+2024 Graduated Student :
 - Yuan Wang, Master @ Bank of Communications Co., Ltd.
 - Yuchun Zhong, Master @ China Construction Bank.
 - Deyuan Zhong, Master @ Kingsoft Corporation Limited.
