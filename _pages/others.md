@@ -50,19 +50,19 @@ Master student :
 - Jin Ton, Bachelor @ Changsha University of Science & Technology.
 
 2024 Graduated Student :
-- Yuan Wang, Master @ Bank of Communications Co., Ltd.
-- Yuchun Zhong, Master @ China Construction Bank.
-- Deyuan Zhong, Master @ Kingsoft Corporation Limited.
-- Jinneng He, Master @ Huawei Technologies Co., Ltd.
-- Zhonghu Lin, Master @ China National Nuclear Corporation.
-- Jianwei Gan, Master @ Tencent Technology (Shenzhen) Company Limited.
-- Kaiquan Bian, Master @ Taobao and Tmall Group.
-- Xing He, Master @ Huawei Technologies Co., Ltd.
-- Fang Xiao, Master @ China Construction Bank.
-- Yanchong Yu, Master @ BYD Company Limited.
-- Wenzhuo Yang, Master @ Beijing Science and Technology Co., three fast online.
-- Shikang Chen, Master @ Huawei Technologies Co., Ltd.
-- Jiawei Lei, Master @ Liby Science and Technology.
-- WONG HOCK ZHI, Master @ Jinan University.
-- Guanzhi Chen, Master @ Jinan University.
+- Yuan Wang, 2024, Master @ Bank of Communications Co., Ltd.
+- Yuchun Zhong, 2024, Master @ China Construction Bank.
+- Deyuan Zhong,2024, Master @ Kingsoft Corporation Limited.
+- Jinneng He, 2024, Master @ Huawei Technologies Co., Ltd.
+- Zhonghu Lin, 2024, Master @ China National Nuclear Corporation.
+- Jianwei Gan, 2024, Master @ Tencent Technology (Shenzhen) Company Limited.
+- Kaiquan Bian, 2024, Master @ Taobao and Tmall Group.
+- Xing He, 2024, Master @ Huawei Technologies Co., Ltd.
+- Fang Xiao, 2024, Master @ China Construction Bank.
+- Yanchong Yu, 2024, Master @ BYD Company Limited.
+- Wenzhuo Yang, 2024, Master @ Beijing Science and Technology Co., three fast online.
+- Shikang Chen, 2024, Master @ Huawei Technologies Co., Ltd.
+- Jiawei Lei, 2024, Master @ Liby Science and Technology.
+- WONG HOCK ZHI, 2024, Master @ Jinan University.
+- Guanzhi Chen, 2024, Master @ Jinan University.
 
