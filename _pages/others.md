@@ -59,7 +59,7 @@ Master student :
 - Yi Huang, 2024, Master @ New H3C Technologies Co., Ltd.
 - Dingliang Cheng, 2024, Master @ East Money Information Co., Ltd.
 - Guoxiong Wei, 2024, Master @ SHEIN.
-- Sheng Li, 2024, Master @ Bank of Communications.
+- Sheng Li, 2024, Master @ China Construction Bank.
 
 2024 Graduated Student :
 - Yuan Wang, 2024, Master @ Bank of Communications Co., Ltd.
