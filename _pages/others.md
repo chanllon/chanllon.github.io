@@ -49,6 +49,18 @@ Master student :
 - Yue Xu, Bachelor @ Hunan University of Science and Technology.
 - Jin Ton, Bachelor @ Changsha University of Science & Technology.
 
+2023 Graduated Student :
+- Wenching Li, 2024, Master @ China Mobile Information Technology Co., Ltd.
+- Tong Zhu, 2024, Master @ Agricultural Bank of China Dongguan Branch.
+- Junming Qiu, 2024, Master @ Sun Yat-sen University.
+- Hao Miao, 2024, Master @ Bohai Bank Co., Ltd.
+- Yonghong Li, 2024, Master @ MediaTek Inc.
+- Chang Chen, 2024, Master @ Genimous Technology.
+- Yi Huang, 2024, Master @ New H3C Technologies Co., Ltd.
+- Dingliang Cheng, 2024, Master @ East Money Information Co., Ltd.
+- Guoxiong Wei, 2024, Master @ SHEIN.
+- Sheng Li, 2024, Master @ Bank of Communications.
+
 2024 Graduated Student :
 - Yuan Wang, 2024, Master @ Bank of Communications Co., Ltd.
 - Yuchun Zhong, 2024, Master @ China Construction Bank.
