@@ -27,13 +27,10 @@ Current Post-Doc:
 #### Collaborating students : 
 
 Ph.D student :
-
 - Xiuliang Duan, Master @ Shandong University of Science and Technology.
 - Delong Li, Master @ Hong Kong Baptist University.
 - Xinghe Cheng, Master @ Guilin University Of Electronic Technology.
 - Cheng Liu, Master @ Guangzhou University.
-
-
 
 2023-2024 Master student :
 - XuFang Zhou, Bachelor @ Xiangtan University.
