@@ -40,12 +40,13 @@ Ph.D student :
 - Zhuzhou Li, Bachelor @ North China University of Water Resources and Electric Power.
 - Zhijian Yi, Bachelor @ Jinan University.
 - Xiaotin Xie, Bachelor @ Jimei University.
-- Jiandon He, Bachelor @ Jinan University.
-- Datin Tan, Bachelor @ Jinan University.
+- Jiandon He, Bachelor(Hongkong) @ Jinan University.
+- Datin Tan, Bachelor(Hongkong) @ Jinan University.
 - Zihan Zhang, Bachelor @ Foshan University.
 - Min Zhan, Bachelor @ Changsha University of Science & Technology.
 - Yue Xu, Bachelor @ Hunan University of Science and Technology.
 - Jin Ton, Bachelor @ Changsha University of Science & Technology.
+
 
 2024 Graduated Student :
 - Yuan Wang, 2022, Master @ Bank of Communications Co., Ltd. (co-advise)
@@ -61,8 +62,9 @@ Ph.D student :
 - Wenzhuo Yang, 2022, Master @ Beijing Science and Technology Co., three fast online.
 - Shikang Chen, 2022, Master @ Huawei Technologies Co., Ltd. (co-advise)
 - Jiawei Lei, 2022, Master @ Liby Science and Technology.
-- WONG HOCK ZHI, 2022, Master @ Jinan University.
-- Guanzhi Chen, 2022, Master @ Jinan University.
+- WONG HOCK ZHI, 2022, Master (Malaysia)  @ Jinan University.
+- Guanzhi Chen, 2022, Master (Taiwan) @ Jinan University.
+- Yujing Kuang, 2022, Master, College of Journalism and Communication,  @ Jinan University.
 
 2023 Graduated Student :
 - Junming Qiu, 2020, Master @ Sun Yat-sen University, Phd student.
@@ -88,8 +90,8 @@ Ph.D student :
 - Yi Yuan, 2019, Master @. (co-advise)
 - Gangxing Wen, 2019 Master @. (co-advise)
 - Guanggong Ge, 2019 Master @. (co-advise)
-- Junheng Lin, 2020, Master, College of Journalism and Communication, @
-- Yongkuang Mai, 2020, Master, College of Journalism and Communication, @
+- Junheng Lin, 2020, Master(Hongkong), College of Journalism and Communication, @
+- Yongkuang Mai, 2020, Master (Hongkong), College of Journalism and Communication, @
 
 2021 Graduated Student :
 - Dongling Liu, 2018 Master @. (co-advise)
