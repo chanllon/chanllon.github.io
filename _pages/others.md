@@ -35,9 +35,7 @@ Ph.D student :
 
 
 
-Master student :
-
-
+2023-2024 Master student :
 - XuFang Zhou, Bachelor @ Xiangtan University.
 - Zhuzhou Li, Bachelor @ North China University of Water Resources and Electric Power.
 - Zhijian Yi, Bachelor @ Jinan University.
