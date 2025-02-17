@@ -24,7 +24,7 @@ nav: true
 
 </div> -->
 
-#### Selected Papers
+#### Papers
 
 <div class="publications">
 
