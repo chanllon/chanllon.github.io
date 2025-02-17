@@ -31,6 +31,7 @@ Ph.D student :
 - Delong Li, Master @ Hong Kong Baptist University.
 - Xinghe Cheng, Master @ Guilin University Of Electronic Technology.
 - Cheng Liu, Master @ Guangzhou University.
+- 
 
 2023-2024 Master student :
 - XuFang Zhou, Bachelor @ Xiangtan University.
