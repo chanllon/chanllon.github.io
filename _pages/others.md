@@ -20,7 +20,7 @@ Current Post-Doc:
 - 2020.09 -- 2023.07, Junmin Qiu, Master @ Jinan University. Now: Ph.D @ Sun Yat-Sen University.
   - Topics: Knowledge Compilation.
   - Outcomes during Master Stage: AAAI'22 [Logical Separability](https://doi.org/10.1609/aaai.v36i5.20529). *Excellent master student.*
- - 
+
 
 
 
@@ -31,7 +31,6 @@ Ph.D student :
 - Delong Li, Master @ Hong Kong Baptist University.
 - Xinghe Cheng, Master @ Guilin University Of Electronic Technology.
 - Cheng Liu, Master @ Guangzhou University.
-- 
 
 2023-2024 Master student :
 - XuFang Zhou, Bachelor @ Xiangtan University.
