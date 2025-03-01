@@ -8,10 +8,10 @@ nav: true
 #### Academic service
 
 - Conference PC member: 
-  - AI area: KDD (2024); AAAI (2024, 2023, 2022, 2021); IJCAI (2024,2023, 2022, 2021); CVPR (2024); WSDM (2023, 2022); AIED (2023, 2022); ICASP (2024); ICCV (2023);
+  - AI area: KDD (2024); AAAI (2025,2024, 2023, 2022, 2021); IJCAI (2025,2024,2023, 2022, 2021); CVPR (2024,2025); ICCV (2023,2025); ACL(2025); WSDM (2023, 2022); ICME(2025); AIED (2025,2024,2023, 2022); ICAPS (2025,2024); ICASSP(2025); 
   - Security area: Inscrypt (2023, 2022, 2021); IEEE SMC（2023）; 
 - Journal reviewer: 
-  - IEEE/CAA Journal of Automatica Sinica, IEEE Transactions on SMC, TLT, IEEE Transactions on Industrial Electronics, TMC, ACM ToIS, IEEE TBD, Knowledge-Based Systems, Wireless Personal Communications, Expert Systems With Applications .
+  - Information Fusion, IEEE/CAA Journal of Automatica Sinica, IEEE Transactions on SMC, IEEE Transactions on Learning Technologies, IEEE Transactions on Industrial Electronics, IEEE Transactions on Mobile Computing(TMC), ACM ToIS, Neural Networks, IEEE Transactions on Circuits and Systems for Video Technology(TCSVT), IEEE Transactions on Vehicular Technology(IEEE TVT), IEEE TBD, Engineering Applications of Artificial Intelligence, Knowledge-Based Systems, Applied Intelligence, Computer Networks, Wireless Personal Communications, Expert Systems With Applications, World Wide Web, Transactions on Knowledge Discovery from Data(TKDD), IEEE Transactions on Computational Social Systems, PeerJ Computer Science .
 - Membership: 
   - Member of CCF Technical Committee Computer Application (TCCA)
   - Member of CCF Technical Committee HPC (TCHPC)
