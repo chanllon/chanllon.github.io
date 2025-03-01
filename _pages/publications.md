@@ -11,7 +11,7 @@ nav: true
 
 #### Preprints
 
-- VSRQ: Quantitative Assessment Method for Safety Risk of Vehicle Intelligent Connected System. Tian Zhang, Wenshan Guan, Hao Miao, Xiujie Huang, Zhiquan Liu, Chaonan Wang, Quanlong Guan, Liangda Fang, Zhifei Duan. [[arxiv](https://arxiv.org/abs/2305.01898)]
+- Reproducible Vision-Language Models Meet Concepts Out of Pre-Training. Ziliang Chen, Xin Huang, Xiaoxuan Fan, Keze Wang, Yuyu Zhou, Quanlong Guan, Liang Lin. [[arxiv](https://arxiv.org/)]
 - Automatic Verification of Linear Integer Planning Programs via Forgetting in LIAUPF. Liangda Fang, Shikang Chen, Xiaoman Wang, Xiaoyou Lin, Chenyi Zhang, Qingliang Chen, Quanlong Guan∗,  Kaile Su†.
 - [[Doi](https://dl.acm.org/doi/abs/10.1145/3511808.3557096)] [[code](https://github.com/chanllon)]
 
