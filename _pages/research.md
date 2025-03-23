@@ -45,6 +45,9 @@ Evaluation: (website: https://github.com/chanllon)
   - [Educational Data Privacy with Diffusion Model](https://github.com/chanllon/EduSyn) 
 - **[RESS'25]** [Phase combination for reliability analysis of dynamic k-out-of-n Phase-AND mission systems
 ](https://www.sciencedirect.com/science/article/abs/pii/S0951832025000201). Chaonan Wang, Shenghui Luo, Guizhuang Chen, Zhitao Wu, Wenjing Rong, Quanlong Guan.
+- **[RESS'25]** [Reliability analysis of IoV-based vehicle monitoring systems subject to cascading probabilistic common cause failures](https://www.sciencedirect.com/science/article/abs/pii/S0951832024006768). Chaonan Wang, Yingxi Lie, Yuchang Mo, Quanlong Guan.
+- **[TITS'25]** [An Efficient and Multi-Dimensional Privacy-Preserving Platoon Communication Scheme in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10844002/).[IEEE Transactions on Intelligent Transportation Systems]. Nuo Xu, Zhiquan Liu, Xuming Han, Quanlong Guan, Heng Sun, Xiujie Huang, Jianfeng Ma.
+- **[RESS'25]** [Efficient reliability analysis of generalized k-out-of-n phased-mission systems](https://www.sciencedirect.com/science/article/abs/pii/S0951832024006525). Guizhuang Chen, Yuliang Hu, Chaonan Wang, Zhitao Wu, Wenjing Rong, Quanlong Guan.
 
 
 
