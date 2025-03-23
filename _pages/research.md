@@ -14,13 +14,16 @@ These days, we are specifically interested in **large language models (LLMs)**, 
 
 Our research consists of the following topics with selected publications: [[View by year]([https://chanllon.github.io/publications/])] [[Google scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN)]
 
+##### Awards 
+- [Students'experience of online learning during the COVID-19pandemic: A province-wide survey study]. British Journal Of Educational Technology, **[Top Cited Article '21-22]** .
+
 ##### New: large models
 
 Evaluation: (website: https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN)
 - [arXiv'23] [DyVal: Graph-informed Dynamic Evaluation of Large Language Models](https://arxiv.org/abs/2309.17167). Kaijie Zhu, Jiaao Chen, Jindong Wang, Neil Zhenqiang Gong, Diyi Yang, Xing Xie.
 
 
-##### Out-of-distribution (Domain) generalization and adaptation for distribution shift
+##### Out-of-distribution (Domain) g
 
 - **[NeurIPS'23]** Generating and Distilling Discrete Adversarial Examples from Large-Scale Models. Andy Zhou, Jindong Wang, Yu-Xiong Wang, Haohan Wang.
 - **[ICDM'17, 400+ citations]** [Balanced distribution adaptation for transfer learning](http://ieeexplore.ieee.org/document/8215613/?part=1). Jindong Wang, Yiqiang Chen, Shuji Hao, Wenjie Feng, and Zhiqi Shen.
