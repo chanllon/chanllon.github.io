@@ -10,7 +10,7 @@ nav: true
 </center>
 
 The long-term research goal is to build AI models for modern Education, such as pre-trained models and large models. We create new theory, algorithms, applications, and open-sourced library to achieve our goal.
-These days, we are specifically interested in **large language models (LLMs)**, Security and AI For Education.
+These days, we are specifically interested in **Knowledge Representation and Reasoning**, **Data Privacy and Security** and **AI For Education**.
 
 Our research consists of the following topics with selected publications: [[View by year]([https://chanllon.github.io/publications/])] [[Google scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN)]
 
