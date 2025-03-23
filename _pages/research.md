@@ -10,23 +10,26 @@ nav: true
 </center>
 
 The long-term research goal is to build AI models for modern Education, such as pre-trained models and large models. We create new theory, algorithms, applications, and open-sourced library to achieve our goal.
-These days, we are specifically interested in **Knowledge Representation and Reasoning**, **Data Privacy and Security** and **AI For Education**.
+These days, we are specifically interested in **Knowledge Representation and Reasoning**, **Trustworthy, Security and Data Privacy** and **AI For Education**.
 
 Our research consists of the following topics with selected publications: [[View by year]([https://chanllon.github.io/publications/])] [[Google scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN)]
 
 ##### Awards 
+- [On the role of logical separabilityin knowledge compilation]. Computer Academy of Guangdong, **[Best Paper Award '24]** .
 - [Students'experience of online learning during the COVID-19pandemic: A province-wide survey study]. British Journal Of Educational Technology, **[Top Cited Article '21-22]** .
 - [Students'experience of online learning during the COVID-19pandemic: A province-wide survey study]. British Journal Of Educational Technology, **[Top Cited Article '21-22]** .
 - [Adaptive Convolutional Time Series Evaluation for Attack Behavior Postures]. 2024 lnternational conference on ElectricalElectronics and Information science(EEIS 2024), **[Best Paper Award]** .
 
 
-##### New: large models
+##### New: Knowledge Representation and Reasoning
 
-Evaluation: (website: https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN)
-- [arXiv'23] [DyVal: Graph-informed Dynamic Evaluation of Large Language Models](https://arxiv.org/abs/2309.17167). Kaijie Zhu, Jiaao Chen, Jindong Wang, Neil Zhenqiang Gong, Diyi Yang, Xing Xie.
+Evaluation: (website: https://github.com/chanllon)
+- [Neurocomputing'25] [HCKGL: Hyperbolic collaborative knowledge graph learning for recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0925231225004801). Huijuan Hu, Chaobo He, Xinran Chen, Quanlong Guan.
+- [Neural Networks'25] [Explainable exercise recommendation with knowledge graph](https://www.sciencedirect.com/science/article/pii/S0893608024008839). Quanlong Guan, Xinghe Cheng, Fang Xiao, Zhuzhou Li, Chaobo He, Liangda Fang, Guanliang Chen, Zhiguo Gong, Weiqi Luo.
+- [Neurocomputing'25] [HCKGL: Hyperbolic collaborative knowledge graph learning for recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0925231225004801). Huijuan Hu, Chaobo He, Xinran Chen, Quanlong Guan.
 
 
-##### Out-of-distribution (Domain) g
+##### Out-of-distribution (Domain) 
 
 - **[NeurIPS'23]** Generating and Distilling Discrete Adversarial Examples from Large-Scale Models. Andy Zhou, Jindong Wang, Yu-Xiong Wang, Haohan Wang.
 - **[ICDM'17, 400+ citations]** [Balanced distribution adaptation for transfer learning](http://ieeexplore.ieee.org/document/8215613/?part=1). Jindong Wang, Yiqiang Chen, Shuji Hao, Wenjie Feng, and Zhiqi Shen.
