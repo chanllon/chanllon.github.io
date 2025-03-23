@@ -24,21 +24,22 @@ Our research consists of the following topics with selected publications: [[View
 ##### New: Knowledge Representation and Reasoning
 
 Evaluation: (website: https://github.com/chanllon)
-- [Neurocomputing'25] [HCKGL: Hyperbolic collaborative knowledge graph learning for recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0925231225004801). Huijuan Hu, Chaobo He, Xinran Chen, Quanlong Guan.
-- [Neural Networks'25] [Explainable exercise recommendation with knowledge graph](https://www.sciencedirect.com/science/article/pii/S0893608024008839). Quanlong Guan, Xinghe Cheng, Fang Xiao, Zhuzhou Li, Chaobo He, Liangda Fang, Guanliang Chen, Zhiguo Gong, Weiqi Luo.
-- [TKDE'25] [Rethinking Variational Bayes in Community Detection from Graph Signal Perspective](https://ieeexplore.ieee.org/abstract/document/10891910/). [IEEE Transactions on Knowledge and Data Engineering] Junwei Cheng, Yong Tang, Chaobo He, Pengxing Feng, Kunlin Han, Quanlong Guan.
-- [Neural Networks'25] [Signed graph embedding via multi-order neighborhood feature fusion and contrastive learning
+- **[Neurocomputing'25]** [HCKGL: Hyperbolic collaborative knowledge graph learning for recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0925231225004801). Huijuan Hu, Chaobo He, Xinran Chen, Quanlong Guan.
+- **[Neural Networks'25]** [Explainable exercise recommendation with knowledge graph](https://www.sciencedirect.com/science/article/pii/S0893608024008839). Quanlong Guan, Xinghe Cheng, Fang Xiao, Zhuzhou Li, Chaobo He, Liangda Fang, Guanliang Chen, Zhiguo Gong, Weiqi Luo.
+- **[TKDE'25]** [Rethinking Variational Bayes in Community Detection from Graph Signal Perspective](https://ieeexplore.ieee.org/abstract/document/10891910/). [IEEE Transactions on Knowledge and Data Engineering] Junwei Cheng, Yong Tang, Chaobo He, Pengxing Feng, Kunlin Han, Quanlong Guan.
+- **[Neural Networks'25]** [Signed graph embedding via multi-order neighborhood feature fusion and contrastive learning
 ](https://www.sciencedirect.com/science/article/abs/pii/S0893608024008268).  Chaobo He, Hao Cheng, Jiaqi Yang, Yong Tang, Quanlong Guan.
-- [C&E'25] [Can AI support human grading? Examining machine attention and confidence in short answer scoring](https://ieeexplore.ieee.org/abstract/document/10891910/). [Computers & Education] Yuheng Li, Mladen Raković, Namrata Srivastava, Xinyu Li, Quanlong Guan, Dragan Gašević, Guanliang Chen.
-- [COLING'25] [KVFKT: A New Horizon in Knowledge Tracing with Attention-Based Embedding and Forgetting Curve Integration](https://aclanthology.org/2025.coling-main.297/). [Proceedings of the 31st International Conference on Computational Linguistics]. Quanlong Guan, Xiuliang Duan, Kaiquan Bian, Guanliang Chen, Jianbo Huang, Zhiguo Gong, Liangda Fang.
-- [MM'24] [Reason-and-execute prompting: Enhancing multi-modal large language models for solving geometry questions](https://dl.acm.org/doi/abs/10.1145/3664647.3681484). [Proceedings of the 32nd ACM International Conference on Multimedia
+- **[C&E'25]** [Can AI support human grading? Examining machine attention and confidence in short answer scoring](https://ieeexplore.ieee.org/abstract/document/10891910/). [Computers & Education] Yuheng Li, Mladen Raković, Namrata Srivastava, Xinyu Li, Quanlong Guan, Dragan Gašević, Guanliang Chen.
+- **[COLING'25]** [KVFKT: A New Horizon in Knowledge Tracing with Attention-Based Embedding and Forgetting Curve Integration](https://aclanthology.org/2025.coling-main.297/). [Proceedings of the 31st International Conference on Computational Linguistics]. Quanlong Guan, Xiuliang Duan, Kaiquan Bian, Guanliang Chen, Jianbo Huang, Zhiguo Gong, Liangda Fang.
+- **[MM'24]** [Reason-and-execute prompting: Enhancing multi-modal large language models for solving geometry questions](https://dl.acm.org/doi/abs/10.1145/3664647.3681484). [Proceedings of the 32nd ACM International Conference on Multimedia
 ]. Xiuliang Duan, Dating Tan, Liangda Fang, Yuyu Zhou, Chaobo He, Ziliang Chen, Lusheng Wu, Guanliang Chen, Zhiguo Gong, Weiqi Luo, Quanlong Guan.
-- [IJCAI'24] [On the logic of theory change iteration of KM-update, revised](https://www.ijcai.org/proceedings/2024/0371.pdf). [Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence]. Liangda Fang, Tong Zhu, Quanlong Guan, Junming Qiu, Zhao-Rong Lai, Weiqi Luo, Hai Wan.
-- [IJCAI'24] [A multi-valued decision diagram-based approach to constrained optimal path problems over directed acyclic graphs](https://www.ijcai.org/proceedings/2024/0219.pdf). [Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence]. Mingwei Zhang, Liangda Fang, Zhenhao Gu, Quanlong Guan, Yong Lai.
-- [COLING'25] [KVFKT: A New Horizon in Knowledge Tracing with Attention-Based Embedding and Forgetting Curve Integration](https://aclanthology.org/2025.coling-main.297/). [Proceedings of the 31st International Conference on Computational Linguistics]. Quanlong Guan, Xiuliang Duan, Kaiquan Bian, Guanliang Chen, Jianbo Huang, Zhiguo Gong, Liangda Fang.
-##### Out-of-distribution (Domain) 
+- **[IJCAI'24]** [On the logic of theory change iteration of KM-update, revised](https://www.ijcai.org/proceedings/2024/0371.pdf). [Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence]. Liangda Fang, Tong Zhu, Quanlong Guan, Junming Qiu, Zhao-Rong Lai, Weiqi Luo, Hai Wan.
+- **[IJCAI'24]** [A multi-valued decision diagram-based approach to constrained optimal path problems over directed acyclic graphs](https://www.ijcai.org/proceedings/2024/0219.pdf). [Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence]. Mingwei Zhang, Liangda Fang, Zhenhao Gu, Quanlong Guan, Yong Lai.
+- **[WWW'24]** [Boost Social Recommendation via Adaptive Denoising Network](https://dl.acm.org/doi/abs/10.1145/3589335.3651473).  Xinran Chen, Chaobo He, Quanlong Guan.
 
-- **[NeurIPS'23]** Generating and Distilling Discrete Adversarial Examples from Large-Scale Models. Andy Zhou, Jindong Wang, Yu-Xiong Wang, Haohan Wang.
+##### Trustworthy, Security and Data Privacy
+
+- **[WWW'24]** Generating Privacy-preserving Educational Data Records with Diffusion Model.(https://dl.acm.org/doi/abs/10.1145/3589335.3651511) Quanlong Guan, Yanchong Yu, Xiujie Huang, Liangda Fang, Chaobo He, Lusheng Wu, Weiqi Luo, Guanliang Chen.
 - **[ICDM'17, 400+ citations]** [Balanced distribution adaptation for transfer learning](http://ieeexplore.ieee.org/document/8215613/?part=1). Jindong Wang, Yiqiang Chen, Shuji Hao, Wenjie Feng, and Zhiqi Shen.
 - Open-source: 
   - [Transfer learning](https://github.com/jindongwang/transferlearning) [![Transfer learning repo](https://img.shields.io/github/stars/jindongwang/transferlearning?style=social)](https://github.com/jindongwang/transferlearning)
