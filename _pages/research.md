@@ -37,12 +37,16 @@ Evaluation: (website: https://github.com/chanllon)
 - **[IJCAI'24]** [A multi-valued decision diagram-based approach to constrained optimal path problems over directed acyclic graphs](https://www.ijcai.org/proceedings/2024/0219.pdf). [Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence]. Mingwei Zhang, Liangda Fang, Zhenhao Gu, Quanlong Guan, Yong Lai.
 - **[WWW'24]** [Boost Social Recommendation via Adaptive Denoising Network](https://dl.acm.org/doi/abs/10.1145/3589335.3651473).  Xinran Chen, Chaobo He, Quanlong Guan.
 
+  
 ##### Trustworthy, Security and Data Privacy
 
 - **[WWW'24]** Generating Privacy-preserving Educational Data Records with Diffusion Model.(https://dl.acm.org/doi/abs/10.1145/3589335.3651511) Quanlong Guan, Yanchong Yu, Xiujie Huang, Liangda Fang, Chaobo He, Lusheng Wu, Weiqi Luo, Guanliang Chen.
-- **[ICDM'17, 400+ citations]** [Balanced distribution adaptation for transfer learning](http://ieeexplore.ieee.org/document/8215613/?part=1). Jindong Wang, Yiqiang Chen, Shuji Hao, Wenjie Feng, and Zhiqi Shen.
 - Open-source: 
-  - [Transfer learning](https://github.com/jindongwang/transferlearning) [![Transfer learning repo](https://img.shields.io/github/stars/jindongwang/transferlearning?style=social)](https://github.com/jindongwang/transferlearning)
+  - [Educational Data Privacy with Diffusion Model](https://github.com/chanllon/EduSyn) 
+- **[RESS'25]** [Phase combination for reliability analysis of dynamic k-out-of-n Phase-AND mission systems
+](https://www.sciencedirect.com/science/article/abs/pii/S0951832025000201). Chaonan Wang, Shenghui Luo, Guizhuang Chen, Zhitao Wu, Wenjing Rong, Quanlong Guan.
+
+
 
 
 ##### Deep learning 
