@@ -41,7 +41,7 @@ Evaluation: (website: https://github.com/chanllon)
   
 ##### Trustworthy, Security and Data Privacy
 
-- **[WWW'24]** Generating Privacy-preserving Educational Data Records with Diffusion Model.(https://dl.acm.org/doi/abs/10.1145/3589335.3651511) Quanlong Guan, Yanchong Yu, Xiujie Huang, Liangda Fang, Chaobo He, Lusheng Wu, Weiqi Luo, Guanliang Chen.
+- **[WWW'24]** [Generating Privacy-preserving Educational Data Records with Diffusion Model]https://dl.acm.org/doi/abs/10.1145/3589335.3651511) Quanlong Guan, Yanchong Yu, Xiujie Huang, Liangda Fang, Chaobo He, Lusheng Wu, Weiqi Luo, Guanliang Chen.
 - Open-source: 
   - [Educational Data Privacy with Diffusion Model](https://github.com/chanllon/EduSyn) 
 - **[RESS'25]** [Phase combination for reliability analysis of dynamic k-out-of-n Phase-AND mission systems
