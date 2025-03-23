@@ -16,7 +16,7 @@ Our research consists of the following topics with selected publications: [[View
 
 ##### New: large models
 
-Evaluation: (website: https://llm-eval.github.io/)
+Evaluation: (website: https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN)
 - [arXiv'23] [DyVal: Graph-informed Dynamic Evaluation of Large Language Models](https://arxiv.org/abs/2309.17167). Kaijie Zhu, Jiaao Chen, Jindong Wang, Neil Zhenqiang Gong, Diyi Yang, Xing Xie.
 
 
