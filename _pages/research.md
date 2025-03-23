@@ -6,7 +6,7 @@ nav: true
 ---
 <!--
 <center>
-<img src="../assets/img/research.png" style="width: 85%"/>
+<img src="../assets/img" style="width: 85%"/>
 </center>
 
 The long-term research goal is to build AI models for modern Education, such as pre-trained models and large models. We create new theory, algorithms, applications, and open-sourced library to achieve our goal.
