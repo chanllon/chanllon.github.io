@@ -41,7 +41,7 @@ Evaluation: (website: https://github.com/chanllon)
   
 ##### Trustworthy, Security and Data Privacy
 
-- **[WWW'24]** [Generating Privacy-preserving Educational Data Records with Diffusion Model]https://dl.acm.org/doi/abs/10.1145/3589335.3651511) Quanlong Guan, Yanchong Yu, Xiujie Huang, Liangda Fang, Chaobo He, Lusheng Wu, Weiqi Luo, Guanliang Chen.
+- **[WWW'24]** [Generating Privacy-preserving Educational Data Records with Diffusion Model](https://dl.acm.org/doi/abs/10.1145/3589335.3651511) Quanlong Guan, Yanchong Yu, Xiujie Huang, Liangda Fang, Chaobo He, Lusheng Wu, Weiqi Luo, Guanliang Chen.
 - Open-source: 
   - [Educational Data Privacy with Diffusion Model](https://github.com/chanllon/EduSyn) 
 - **[RESS'25]** [Phase combination for reliability analysis of dynamic k-out-of-n Phase-AND mission systems
@@ -49,5 +49,8 @@ Evaluation: (website: https://github.com/chanllon)
 - **[RESS'25]** [Reliability analysis of IoV-based vehicle monitoring systems subject to cascading probabilistic common cause failures](https://www.sciencedirect.com/science/article/abs/pii/S0951832024006768). Chaonan Wang, Yingxi Lie, Yuchang Mo, Quanlong Guan.
 - **[TITS'25]** [An Efficient and Multi-Dimensional Privacy-Preserving Platoon Communication Scheme in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10844002/).[IEEE Transactions on Intelligent Transportation Systems]. Nuo Xu, Zhiquan Liu, Xuming Han, Quanlong Guan, Heng Sun, Xiujie Huang, Jianfeng Ma.
 - **[RESS'25]** [Efficient reliability analysis of generalized k-out-of-n phased-mission systems](https://www.sciencedirect.com/science/article/abs/pii/S0951832024006525). Guizhuang Chen, Yuliang Hu, Chaonan Wang, Zhitao Wu, Wenjing Rong, Quanlong Guan.
-
+- **[IOT'25]** [Hybrid Transfer and Self-Supervised Learning Approaches in Neural Networks for Intelligent Vehicle Intrusion Detection and Analysis](https://ieeexplore.ieee.org/abstract/document/10804111/). Tian Zhang, Cuifeng Du, Yuyu Zhou, Quanlong Guan, Zhiquan Liu, Xiujie Huang, Zhiguo Gong, Lianbing Deng, Yang Li.
+- **[RESS'25]** [Efficient reliability analysis of generalized k-out-of-n phased-mission systems](https://www.sciencedirect.com/science/article/abs/pii/S0951832024006525). Guizhuang Chen, Yuliang Hu, Chaonan Wang, Zhitao Wu, Wenjing Rong, Quanlong Guan.
+  - - **[RESS'25]** [Efficient reliability analysis of generalized k-out-of-n phased-mission systems](https://www.sciencedirect.com/science/article/abs/pii/S0951832024006525). Guizhuang Chen, Yuliang Hu, Chaonan Wang, Zhitao Wu, Wenjing Rong, Quanlong Guan.
+    - - **[RESS'25]** [Efficient reliability analysis of generalized k-out-of-n phased-mission systems](https://www.sciencedirect.com/science/article/abs/pii/S0951832024006525). Guizhuang Chen, Yuliang Hu, Chaonan Wang, Zhitao Wu, Wenjing Rong, Quanlong Guan.
 
