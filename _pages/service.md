@@ -5,6 +5,13 @@ permalink: /service/
 nav: true
 ---
 
+#### Awards
+
+- Excellent Reviewer. Journal of Computer Networks in 2025.
+- Excellent Reviewer. Journal of Computer Networks in 2024.
+- Distinguished reviewer. IJCAI 2023.
+- Excellent Peer Reviewer. Journal of Computer Science in 2022.
+  
 #### Academic service
 
 - Conference PC member: 
@@ -20,7 +27,4 @@ nav: true
 
 
 
-#### Awards
-
-- Distinguished reviewer. IJCAI 2023.
 
