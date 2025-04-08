@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2025-04-07
+inline: true
+---
+
+One paper of our team has been accepted for **"SIGIR 2025"** Full Papers track (21.5% acceptance rate), a top-tier international Conference categorized as **CCF A-class** .
