@@ -57,3 +57,9 @@ jobs:
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
                     --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
 
+    - name: Install ImageMagick
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y liblzma-dev  # 显式安装缺失依赖
+        sudo apt-get install -y imagemagick libmagickwand-dev
+
