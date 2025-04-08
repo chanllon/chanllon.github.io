@@ -18,7 +18,7 @@ Our research consists of the following topics with selected publications: [[View
 ##### Awards 
 - [On the role of logical separabilityin knowledge compilation]. Computer Academy of Guangdong, **[Best Paper Award '24]** .
 - [Students'experience of online learning during the COVID-19pandemic: A province-wide survey study]. British Journal Of Educational Technology, **[Top Cited Article '21-22]** .
-- [Students'experience of online learning during the COVID-19pandemic: A province-wide survey study]. British Journal Of Educational Technology, **[Top Cited Article '21-22]** .
+- [Students'experience of online learning during the COVID-19pandemic: A province-wide survey study]. British Journal Of Educational Technology, **[Top Downloaded Article '21-22]** .
 - [Adaptive Convolutional Time Series Evaluation for Attack Behavior Postures]. 2024 lnternational conference on ElectricalElectronics and Information science(EEIS 2024), **[Best Paper Award]** .
 
 
