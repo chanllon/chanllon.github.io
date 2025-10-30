@@ -44,6 +44,7 @@ Ph.D student :
 - Yue Xu, Bachelor @ Hunan University of Science and Technology.
 - Jin Ton, Bachelor @ Changsha University of Science & Technology.
 
+2025 Graduated Student :
 
 2024 Graduated Student :
 - Yuan Wang, 2022, Master @ Bank of Communications Co., Ltd. (co-advise)
@@ -79,20 +80,20 @@ Ph.D student :
   
 2022 Graduated Student :
 - Xianbin Ye, 2019, Master @ BaiduBaidu (China) Co., Ltd., Shenzhen
-- Haipen Che, 2019 Master @. (co-advise)
-- Fubi Du,  2019 Master @. (co-advise)
-- Li Cai, 2019, Master @. (co-advise)
-- Biao Li, 2019, Master @. (co-advise)
-- Ke Liu, 2019, Master @. (co-advise)
-- Yi Yuan, 2019, Master @. (co-advise)
-- Gangxing Wen, 2019 Master @. (co-advise)
-- Guanggong Ge, 2019 Master @. (co-advise)
+- Haipen Che (co-advise), 2019 Master @. 
+- Fubi Du (co-advise),  2019 Master @ China Telecom Cloud Technology Co., Ltd.
+- Li Cai (co-advise) , 2019, Master @ ByteDance Ltd. 
+- Biao Li (co-advise) , 2019, Master @ SHEIN. Guangzhou
+- Ke Liu (co-advise), 2019, Master @ 
+- Yi Yuan (co-advise), 2019, Master @.
+- Gangxing Wen (co-advise), 2019 Master @. 
+- Guanggong Ge (co-advise), 2019 Master @ PDD Holdings Inc.
 - Junheng Lin, 2020, Master(Hongkong), College of Journalism and Communication, @
 - Yongkuang Mai, 2020, Master (Hongkong), College of Journalism and Communication, @
 
 2021 Graduated Student :
 - Dongling Liu, 2018 Master @. (co-advise)
-- Jian Wu, 2018 Master @. (co-advise)
+- Jian Wu, 2018 Master @. (co-advise), Sangfor Technologies Inc.
 - Fei Wang, 2018, Master, College of Journalism and Communication, @
 
 2020 Graduated Student :
