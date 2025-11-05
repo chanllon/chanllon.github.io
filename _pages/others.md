@@ -51,7 +51,7 @@ Ph.D student :
 
 2025 Graduated Student :
 - Jiayu Zeng, Huawei Technologies Co., Ltd.
-- Sitong Chen,Air Force Early Warning Academy, People’s Liberation Army of China.
+- Sitong Chen, Air Force Early Warning Academy, People’s Liberation Army of China.
 - Zhi Chen, Zhuhai Xiangyi Aviation Technology Co., Ltd.
 - Xiaoxuan Fan, Beijing Sankuai Online Technology Co., Ltd. / Meituan.
 - Zhenhao Gu, Guangzhou Tencent Technology Co., Ltd.
