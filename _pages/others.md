@@ -29,7 +29,7 @@ Current Post-Doc:
 Ph.D student :
 - Xiuliang Duan, Master @ Shandong University of Science and Technology.
 - Delong Li, Master @ Hong Kong Baptist University.
-- Xinghe Cheng, Master @ Guilin University Of Electronic Technology.
+- Xinghe Cheng, Master @ Guilin University Of Electronic Technology. (co-advise)
 - Cheng Liu, Master @ Guangzhou University.
 - Penghui Xi, Master @ Guangxi Normal University. (co-advise)
 - Cheng Liu, Master @ Guangzhou University.
