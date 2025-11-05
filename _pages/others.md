@@ -45,6 +45,18 @@ Ph.D student :
 - Jin Ton, Bachelor @ Changsha University of Science & Technology.
 
 2025 Graduated Student :
+- Jiayu Zeng, Huawei Technologies Co., Ltd.
+- Sitong Chen,Air Force Early Warning Academy, People’s Liberation Army of China.
+- Zhi Chen, Zhuhai Xiangyi Aviation Technology Co., Ltd.
+- Xiaoxuan Fan, Beijing Sankuai Online Technology Co., Ltd. / Meituan.
+- Zhenhao Gu, Guangzhou Tencent Technology Co., Ltd.
+- Wenshan Guan, JD.com, Inc. / Jingdong Group.
+- Yulu Li, Bank of China, Hainan Branch.
+- Chuanghong Lin, China Petroleum & Chemical Corporation / Sinopec.
+- Xiaoman Wang, Alibaba Group Holding Limited.
+- Meihong Yang, Beijing Didi Infinity Technology and Development Co., Ltd. / DiDi.
+- Mingwei Zhang, University of Amsterdam. Phd.
+- Tian Zhang , Wuhan University. Phd.
 
 2024 Graduated Student :
 - Yuan Wang, 2022, Master @ Bank of Communications Co., Ltd. (co-advise)
