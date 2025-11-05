@@ -31,6 +31,11 @@ Ph.D student :
 - Delong Li, Master @ Hong Kong Baptist University.
 - Xinghe Cheng, Master @ Guilin University Of Electronic Technology.
 - Cheng Liu, Master @ Guangzhou University.
+- Penghui Xi, Master @ Guangxi Normal University. (co-advise)
+- Cheng Liu, Master @ Guangzhou University.
+- Guansong Qin, Master @ Henan University.
+- Chenxian He, Master @ Lanzhou University of Technology. (co-advise)
+
 
 2023-2024 Master student :
 - XuFang Zhou, Bachelor @ Xiangtan University.
