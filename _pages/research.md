@@ -23,8 +23,7 @@ Our research consists of the following topics with selected publications: [[View
 
 
 ##### New: Knowledge Representation and Reasoning
-
-Evaluation: (website: https://github.com/chanllon)
+(website: https://github.com/chanllon)
 - **[Neurocomputing'25]** [HCKGL: Hyperbolic collaborative knowledge graph learning for recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0925231225004801). Huijuan Hu, Chaobo He, Xinran Chen, Quanlong Guan.
 - **[Neural Networks'25]** [Explainable exercise recommendation with knowledge graph](https://www.sciencedirect.com/science/article/pii/S0893608024008839). Quanlong Guan, Xinghe Cheng, Fang Xiao, Zhuzhou Li, Chaobo He, Liangda Fang, Guanliang Chen, Zhiguo Gong, Weiqi Luo.
 - **[TKDE'25]** [Rethinking Variational Bayes in Community Detection from Graph Signal Perspective](https://ieeexplore.ieee.org/abstract/document/10891910/). [IEEE Transactions on Knowledge and Data Engineering] Junwei Cheng, Yong Tang, Chaobo He, Pengxing Feng, Kunlin Han, Quanlong Guan.
