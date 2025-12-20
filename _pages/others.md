@@ -13,25 +13,25 @@ Current Post-Doc:
 - 2022.09 -- present, Zhiyuan Xun, PhD @ Beijing Jiaotong University.
 
 #### Alumni :
-- 2022.09 -- 2025.07, Tian Zhang, Master @ Jinan University. Now: Ph.D @ Wuhan University.
+- 2022.09 -- 2025.07, **Tian Zhang**, Master @ Jinan University. Now: Ph.D @ Wuhan University.
   - Topics: Securiy of Intelligent Transportation Systems.
-  - Outcomes during Master Stage: 1.IEEE Internet of Things Journal [Intelligent Transportation Systems](https://doi.org/10.1109/JIOT.2024.3518636);2.IEEE Transactions on Vehicular Technology[Assessment for Safety Risk](https://doi.org/10.1109/TVT.2024.3469389) **Excellent master student.**
-- 2022.09 -- 2025.07, Mingwei Zhang, Master @ Jinan University. Now: Ph.D @ University of Amsterdam.
+  - Outcomes during Master Stage: 1.IEEE Internet of Things Journal. [Intelligent Transportation Systems](https://doi.org/10.1109/JIOT.2024.3518636);2.IEEE Transactions on Vehicular Technology. [Assessment for Safety Risk](https://doi.org/10.1109/TVT.2024.3469389) **Excellent master student.**
+- 2022.09 -- 2025.07, **Mingwei Zhang**, Master @ Jinan University. Now: Ph.D @ University of Amsterdam.
   - Topics: Knowledge Reasoning.
-  - Outcomes during Master Stage: IJCAI'24 [A multi-valued decision diagram Path](https://www.ijcai.org/proceedings/2024/0219.pdf). **Excellent master student.**
-- 2022.09 -- 2025.07, Zhi Chen, Master @ Jinan University. Now:  Zhuhai Xiangyi Aviation Technology Co., Ltd.
+  - Outcomes during Master Stage: IJCAI'24. [A multi-valued decision diagram Path](https://www.ijcai.org/proceedings/2024/0219.pdf). **Excellent master student.**
+- 2022.09 -- 2025.07, **Zhi Chen**, Master @ Jinan University. Now:  Zhuhai Xiangyi Aviation Technology Co., Ltd.
   - Topics: Knowledge Representation.
-  - Outcomes during Master Stage: 1.CIKM'26 [Educational Content]([https://doi.org/10.1609/aaai.v36i5.20529](https://doi.org/10.1145/3746252.3761046). 2.ICASSP 2024. **Excellent master student.**
-- 2020.09 -- 2023.07, Junmin Qiu, Master @ Jinan University. Now: Ph.D @ Sun Yat-Sen University.
+  - Outcomes during Master Stage: 1.CIKM'26. [Educational Content]([https://doi.org/10.1609/aaai.v36i5.20529](https://doi.org/10.1145/3746252.3761046). 2.ICASSP 2024. **Excellent master student.**
+- 2020.09 -- 2023.07, **Junmin Qiu**, Master @ Jinan University. Now: Ph.D @ Sun Yat-Sen University.
   - Topics: Knowledge Reasoning.
-  - Outcomes during Master Stage: AAAI'22 [Logical Separability](https://doi.org/10.1609/aaai.v36i5.20529). **Excellent master student.**
-- 2019.09 -- 2022.06, Xianbin Ye, Master @ Jinan University.
+  - Outcomes during Master Stage: AAAI'22. [Logical Separability](https://doi.org/10.1609/aaai.v36i5.20529). **Excellent master student.**
+- 2019.09 -- 2022.06, **Xianbin Ye**, Master @ Jinan University.
   - Topics: Artificial Intelligence Generation (AIGC).
   - Outcomes during Master Stage: Pattern Recognition [AI Discovery](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001406). **Excellent master student.**
 
 #### Collaborating students : 
 
-Ph.D student :
+**Ph.D student :**
 - Xiuliang Duan, Master @ Shandong University of Science and Technology.
 - Delong Li, Master @ Hong Kong Baptist University.
 - Xinghe Cheng, Master @ Guilin University Of Electronic Technology. (co-advise)
@@ -42,7 +42,7 @@ Ph.D student :
 - Chenxian He, Master @ Lanzhou University of Technology. (co-advise)
 - Hai Lin, Master @ Shanghai Maritime University.
 
-2023-2024 Master student :
+**2023-2024 Master student :**
 - XuFang Zhou, Bachelor @ Xiangtan University.
 - Zhuzhou Li, Bachelor @ North China University of Water Resources and Electric Power.
 - Zhijian Yi, Bachelor @ Jinan University.
@@ -54,7 +54,7 @@ Ph.D student :
 - Yue Xu, Bachelor @ Hunan University of Science and Technology.
 - Jin Ton, Bachelor @ Changsha University of Science & Technology.
 
-2025 Graduated Student :
+**2025 Graduated Student :**
 - Jiayu Zeng, Huawei Technologies Co., Ltd.
 - Sitong Chen, Air Force Early Warning Academy, People’s Liberation Army of China.
 - Zhi Chen, Zhuhai Xiangyi Aviation Technology Co., Ltd.
@@ -68,7 +68,7 @@ Ph.D student :
 - Mingwei Zhang, University of Amsterdam. Phd.
 - Tian Zhang , Wuhan University. Phd.
 
-2024 Graduated Student :
+**2024 Graduated Student :**
 - Yuan Wang, 2022, Master @ Bank of Communications Co., Ltd. (co-advise)
 - Yuchun Zhong, 2022, Master @ China Construction Bank. (co-advise)
 - Deyuan Zhong, 2022, Master @ Kingsoft Corporation Limited.
@@ -86,7 +86,7 @@ Ph.D student :
 - Guanzhi Chen, 2022, Master (Taiwan) @ Jinan University.
 - Yujing Kuang, 2022, Master, College of Journalism and Communication,  @ Jinan University.
 
-2023 Graduated Student :
+**2023 Graduated Student :**
 - Junming Qiu, 2020, Master @ Sun Yat-sen University, Phd student.
 - WenQing Li, 2020, Master @ China Mobile Information Technology Co., Ltd.
 - Tong Zhu, 2020, Master @ Agricultural Bank of China Dongguan Branch.
@@ -100,7 +100,7 @@ Ph.D student :
 - Dingliang Cheng, 2020, Master @ East Money Information Co., Ltd. (co-advise)
 - Yunlai Hao, Master @ 
   
-2022 Graduated Student :
+**2022 Graduated Student :**
 - Xianbin Ye, 2019, Master @ BaiduBaidu (China) Co., Ltd., Shenzhen
 - Haipen Che (co-advise), 2019 Master @. 
 - Fubi Du (co-advise),  2019 Master @ China Telecom Cloud Technology Co., Ltd.
@@ -113,13 +113,13 @@ Ph.D student :
 - Junheng Lin, 2020, Master(Hongkong), College of Journalism and Communication, @
 - Yongkuang Mai, 2020, Master (Hongkong), College of Journalism and Communication, @
 
-2021 Graduated Student :
+**2021 Graduated Student :**
 - Dongling Liu, 2018 Master @. (co-advise)
 - Jian Wu, 2018 Master @. (co-advise), Sangfor Technologies Inc.
 - Fei Wang, 2018, Master, College of Journalism and Communication, @
 
-2020 Graduated Student :
+**2020 Graduated Student :**
 - Chuying Liu, 2017, Master @ Software Development Center of Industrial and Commercial Bank of China，Guangzhou
   
-2015 Graduated Student :
+**2015 Graduated Student :**
 - Zhengliang Jiang, 2013, Master @ Network and Education Center, Jinan University, Guangzhou
