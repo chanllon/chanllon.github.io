@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thank you to our outstanding students for their hard work
+title: Thanks to our outstanding students for their hard work
 permalink: /students/
 nav: true
 ---
