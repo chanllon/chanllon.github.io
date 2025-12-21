@@ -32,15 +32,14 @@ Current Post-Doc:
 #### Collaborating students : 
 
 **Ph.D student :**
-- Xiuliang Duan, Master @ Shandong University of Science and Technology.
-- Delong Li, Master @ Hong Kong Baptist University.
-- Xinghe Cheng, Master @ Guilin University Of Electronic Technology. (co-advise)
-- Cheng Liu, Master @ Guangzhou University.
-- Penghui Xi, Master @ Guangxi Normal University. (co-advise)
-- Cheng Liu, Master @ Guangzhou University.
-- Guansong Qin, Master @ Henan University.
-- Chenxian He, Master @ Lanzhou University of Technology. (co-advise)
-- Hai Lin, Master @ Shanghai Maritime University.
+- Xiuliang Duan, 2022.09-. Master @ Shandong University of Science and Technology.
+- Delong Li, 2022.09-, Master @ Hong Kong Baptist University.
+- Xinghe Cheng, 2023.09-, Master @ Guilin University Of Electronic Technology. (co-advise)
+- Cheng Liu, 2024.09-, Master @ Guangzhou University.
+- Penghui Xi, 2024.09-, Master @ Guangxi Normal University. (co-advise)
+- Guansong Qin, 2025.09-, Master @ Henan University.
+- Hai Lin, 2025.09-, Master @ Shanghai Maritime University.
+- Chenxian He, 2025.09-, Master @ Lanzhou University of Technology. (co-advise)
 
 **2025 Master student :**
 
