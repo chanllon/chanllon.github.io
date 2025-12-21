@@ -42,7 +42,11 @@ Current Post-Doc:
 - Chenxian He, Master @ Lanzhou University of Technology. (co-advise)
 - Hai Lin, Master @ Shanghai Maritime University.
 
-**2023-2024 Master student :**
+**2025 Master student :**
+
+**2024 Master student :**
+
+**2023 Master student :**
 - XuFang Zhou, Bachelor @ Xiangtan University.
 - Zhuzhou Li, Bachelor @ North China University of Water Resources and Electric Power.
 - Zhijian Yi, Bachelor @ Jinan University.
