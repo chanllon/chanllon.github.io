@@ -24,6 +24,10 @@ Our research consists of the following topics with selected publications: [[View
 
 ##### New: Knowledge Representation and Reasoning
 (website: [Google scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN))
+- **[AAAI'26]** [Generating In-Distribution Counterfactual Explanation for Graph Neural Networks](https://doi.org/10.1609/aaai.v40i24.39108). Linmao Chen, Chaobo He, Junwei Cheng, Chunying Li, Quanlong Guan.
+- **[AAAI'26]** [GraphRAG-induced dual knowledge structure graphs for personalized learning path recommendation](https://doi.org/10.1609/aaai.v40i17.38479). Xinghe Cheng, Zihan Zhang, Jiapu Wang, Liangda Fang, Chaobo He, Quanlong Guan, Shirui Pan, Weiqi Luo.
+- **[CIKM'25]** [PERC: A Prior-Guided Framework for Classifying Long-Content Educational Resources with Imbalanced Category Distributions](https://dl.acm.org/doi/abs/10.1145/3746252.3761046). Quanlong Guan, Xiuliang Duan, Zhi Chen, Xingyu Zhu, Jianbo Huang, Xinzhong Liu, Zonglin Liu, Liangda Fang.
+
 - **[Neurocomputing'25]** [HCKGL: Hyperbolic collaborative knowledge graph learning for recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0925231225004801). Huijuan Hu, Chaobo He, Xinran Chen, Quanlong Guan.
 - **[Neural Networks'25]** [Explainable exercise recommendation with knowledge graph](https://www.sciencedirect.com/science/article/pii/S0893608024008839). Quanlong Guan, Xinghe Cheng, Fang Xiao, Zhuzhou Li, Chaobo He, Liangda Fang, Guanliang Chen, Zhiguo Gong, Weiqi Luo.
 - **[TKDE'25]** [Rethinking Variational Bayes in Community Detection from Graph Signal Perspective](https://ieeexplore.ieee.org/abstract/document/10891910/). [IEEE Transactions on Knowledge and Data Engineering] Junwei Cheng, Yong Tang, Chaobo He, Pengxing Feng, Kunlin Han, Quanlong Guan.
