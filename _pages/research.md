@@ -23,7 +23,7 @@ Our research consists of the following topics with selected publications: [[View
 
 
 **##### Knowledge Representation and Reasoning**
-(website: [Google scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN))
+(Personal website: [Google scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN))
 - **[AAAI'26]** [Generating In-Distribution Counterfactual Explanation for Graph Neural Networks](https://doi.org/10.1609/aaai.v40i24.39108). Linmao Chen, Chaobo He, Junwei Cheng, Chunying Li, Quanlong Guan.
 - **[AAAI'26]** [GraphRAG-induced dual knowledge structure graphs for personalized learning path recommendation](https://doi.org/10.1609/aaai.v40i17.38479). Xinghe Cheng, Zihan Zhang, Jiapu Wang, Liangda Fang, Chaobo He, Quanlong Guan, Shirui Pan, Weiqi Luo.
 - **[NeurIPS'25]** [FerretNet: Efficient Synthetic Image Detection via Local Pixel Dependencies](https://arxiv.org/abs/2509.20890). Shuqiao Liang, Jian Liu, Renzhang Chen, Quanlong Guan.
