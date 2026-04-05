@@ -22,7 +22,7 @@ Our research consists of the following topics with selected publications: [[View
 - [Adaptive Convolutional Time Series Evaluation for Attack Behavior Postures]. 2024 lnternational conference on ElectricalElectronics and Information science(EEIS 2024), **[Best Paper Award]** .
 
 
-##### New: Knowledge Representation and Reasoning
+**##### Knowledge Representation and Reasoning**
 (website: [Google scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN))
 - **[AAAI'26]** [Generating In-Distribution Counterfactual Explanation for Graph Neural Networks](https://doi.org/10.1609/aaai.v40i24.39108). Linmao Chen, Chaobo He, Junwei Cheng, Chunying Li, Quanlong Guan.
 - **[AAAI'26]** [GraphRAG-induced dual knowledge structure graphs for personalized learning path recommendation](https://doi.org/10.1609/aaai.v40i17.38479). Xinghe Cheng, Zihan Zhang, Jiapu Wang, Liangda Fang, Chaobo He, Quanlong Guan, Shirui Pan, Weiqi Luo.
@@ -52,7 +52,7 @@ Our research consists of the following topics with selected publications: [[View
 - **[CIKM'23]** [Kg4ex: An explainable knowledge graph-based approach for exercise recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3614943). Quanlong Guan, Fang Xiao, Xinghe Cheng, Liangda Fang, Ziliang Chen, Guanliang Chen, Weiqi Luo.
 - **[ICCV'23]** [A retrospect to multi-prompt learning across vision and language](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_A_Retrospect_to_Multi-prompt_Learning_across_Vision_and_Language_ICCV_2023_paper.pdf). Ziliang Chen, Xin Huang, Quanlong Guan, Liang Lin, Weiqi Luo.
   
-##### Trustworthy, Security and Data Privacy
+**##### Trustworthy, Security and Data Privacy**
 
 - **[WWW'24]** [Generating Privacy-preserving Educational Data Records with Diffusion Model](https://dl.acm.org/doi/abs/10.1145/3589335.3651511) Quanlong Guan, Yanchong Yu, Xiujie Huang, Liangda Fang, Chaobo He, Lusheng Wu, Weiqi Luo, Guanliang Chen.
 - Open-source: 
