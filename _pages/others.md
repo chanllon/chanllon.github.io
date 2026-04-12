@@ -42,8 +42,33 @@ Current Post-Doc:
 - Chenxian He, 2025.09-, Master @ Lanzhou University of Technology. (co-advise)
 
 **2025 Master student :**
+-Guiyong Zhuang, Bachelor @ Guangzhou University.
+-Siluo Weng, Bachelor @ Guangdong University of Foreign Studies.
+-Yusheng Xie, Bachelor @ East China Jiaotong University.
+-Haoyu Tan, Bachelor @ Guangzhou University.
+-Yangbin Zheng, Bachelor @ Guangdong University of Finance and Economics.
+-Shoufu Zheng, Bachelor @ Jinan University.
+-Xinuo Liu, Bachelor @ Jinan University.
+-Geng Tang, Bachelor @ Guangzhou University.
+-Yongliang Peng, Bachelor @ Harbin Medical University.
+-Yiping Wang, Bachelor @ Tianjin University of Science and Technology.
+-Guangping Li, Bachelor @ Hunan University of Science and Technology.
+-Hangyu Mo, Bachelor @ Changchun University of Science and Technology.
+-Yecheng Lao, Bachelor @ Guangdong University of Technology.
 
 **2024 Master student :**
+-Yongquan Zhu, Bachelor @ Qingdao University.
+-Yong Xu, Bachelor @ Jiangxi Normal University.
+-Junhong Zhang, Bachelor @ Jinan University.
+-Yaohui Luo, Bachelor @ Guangdong University of Foreign Studies.
+-Yongliang Lai, Bachelor @ Fujian Normal University.
+-Jianxin Li, Bachelor @ Guangzhou University.
+-Xiazhen Wu, Bachelor @ Guangzhou University.
+-Suhua Zhong, Bachelor @ Fuzhou University.
+-Yichao Hong, Bachelor @ Shanghai University of International Business and Economics.
+-Zhihuan Gong, Bachelor @ Nanjing University of Posts and Telecommunications.
+-Jiahao Luo, Bachelor @ Southwest Jiaotong University.
+-Yuhao Lin, Bachelor @ South China Normal University.
 
 **2023 Master student :**
 - XuFang Zhou, Bachelor @ Xiangtan University.
