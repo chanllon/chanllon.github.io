@@ -10,6 +10,8 @@ The long-term research goal is to build AI models for modern education, such as 
 
 Our research consists of the following topics with selected publications: [View by year](https://chanllon.github.io/publications/) | [Google Scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=en)
 
+<br>
+
 ##### Awards
 
 * **Rethinking Variational Bayes in Community Detection from Graph Signal Perspective.** Guangdong Computer Federation, Best Paper Award '25.
