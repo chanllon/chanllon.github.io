@@ -27,7 +27,7 @@ nav: true
 
 #### Selected Papers
 
-<div class="publications">
+<div class="publications" style="overflow-x: auto;">
 
 {% for y in page.years %}
   <div>{{y}}</div>
