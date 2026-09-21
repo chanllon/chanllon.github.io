@@ -5,7 +5,7 @@ title: Research
 nav: true
 ---
 
-The long-term research goal is to Knowledge Representation, Embodied Intelligence‌, Knowledge Reasoning and Data Privacy. We create new theories, algorithms, applications, and open-source libraries to achieve our goal. These days, we are specifically interested in Knowledge Representation and Reasoning, AI for Education and Recommendation, and Trustworthy AI, Security and Data Privacy.
+The long-term research goal is to build AI models for modern education, such as deep learning models, pre-trained models, and large models. We create new theories, algorithms, applications, and open-source libraries to achieve our goal. These days, we are specifically interested in Knowledge Representation and Reasoning, AI for Education and Recommendation, and Trustworthy AI, Security and Data Privacy.
 
 Our research consists of the following topics with selected publications: [View by year](https://chanllon.github.io/publications/) &#124; [Google Scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=en)
 
@@ -22,6 +22,10 @@ Our research consists of the following topics with selected publications: [View 
 - **[AAAI'26]** [Generating In-Distribution Counterfactual Explanation for Graph Neural Networks](https://doi.org/10.1609/aaai.v40i24.39108). Linmao Chen, Chaobo He, Junwei Cheng, Chunying Li, Quanlong Guan.
 - **[CVPR'26]** [Vocabulary Scaling Law: Tuning Open-Vocabulary Predictors for Their Openness](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Vocabulary_Scaling_Law_Tuning_Open-vocabulary_Predictors_for_Their_Openness_CVPR_2026_paper.html). Ziliang Chen, Yulu Li, Liangda Fang, Jusheng Zhang, Yongsen Zheng, Quanlong Guan, Xipeng Chen.
 - **[ICML'26]** [Entangled No More: Multi-Domain Decoupling for Robust Dynamic Graph Neural Networks](https://openreview.net/forum?id=Orc8Jzbc0p). Youda Mo, Chaobo He, Junwei Cheng, Peng Mei, Quanlong Guan.
+- **[EAAI'26]** [Zero-Shot Industrial Defect Detection in Flexible Manufacturing via General-Expert Prompt Fusion and Spatial Interaction](https://doi.org/10.1016/j.engappai.2026.114999). Yue Ai, Jiang Cheng, Jiahao Lai, Lingxi Peng, Quanlong Guan, Zhiwen Yu.
+- **[KBS'26]** [Manifold-Aware Triple Cooperative Multi-Population Differential Evolution with Reinforcement Learning for Irregular 3D UAV Path Planning](https://www.sciencedirect.com/science/article/pii/S0950705126005897). Yunhui Zhang, Guanglong Du, Hao Tang, Ziwei Wang, Xueqian Wang, Cuifeng Du, Quanlong Guan, Xiaojian Qiu.
+- **[Industrial Robot'26]** [A Framework for Vision-Based Robotic Grasping and Sorting in Cluttered Environments](https://doi.org/10.1108/IR-12-2024-0533). Chuxin Chen, Jiaqi Wang, Jingwei Liu, Guanglong Du, Xiaojun Zhu, Quanlong Guan, Xiaojian Qiu.
+- **[Industrial Robot'26]** [A Non-Contact, Wide-Ranging Approach to Human–Robot Interaction Based on Broad Learning System](https://doi.org/10.1108/IR-01-2025-0022). Jingwei Liu, Yufan Zhang, Bidan Li, Guanglong Du, Xiaojun Zhu, Quanlong Guan.
 - **[PR'25]** [GraphST: Class-Imbalanced Node Classification with Semantic Relation Transfer](https://doi.org/10.1016/j.patcog.2025.112626). Jialong Wang, Quanlong Guan, Lianbing Deng, Mengting Zhou, Zhiguo Gong.
 - **[IJCAI'25]** [Improvements to the Generate-and-Complete Approach to Conformant Planning](https://doi.org/10.24963/ijcai.2025/945). Liangda Fang, Min Zhan, Jin Tong, Xiujie Huang, Ziliang Chen, Quanlong Guan.
 - **[UAI'25]** [DyGMAE: A Novel Dynamic Graph Masked Autoencoder for Link Prediction](https://dl.acm.org/doi/10.5555/3762387.3762503). Weixiong Liu, Junwei Cheng, Zhongyu Pan, Chaobo He, Quanlong Guan.
@@ -61,6 +65,7 @@ Our research consists of the following topics with selected publications: [View 
 
 ##### Trustworthy AI, Reliability, Security and Data Privacy
 
+- **[RESS'26]** [Reliability Analysis for Linear Multi-State (n, f, k) and ⟨n, f, k⟩ Systems](https://www.sciencedirect.com/science/article/pii/S095183202600061X). Shuaihao He, Chaonan Wang, Zhitao Wu, Quanlong Guan.
 - **[NeurIPS'25]** [FerretNet: Efficient Synthetic Image Detection via Local Pixel Dependencies](https://arxiv.org/abs/2509.20890). Shuqiao Liang, Jian Liu, Renzhang Chen, Quanlong Guan.
 - **[TITS'25]** [Task Offloading Based on the Fusion of Model- and Data-Driven Intelligence for Vehicular Edge Computing Networks](https://doi.org/10.1109/TITS.2025.3546304). Xiujie Huang, Yuhao Chen, Zhiquan Liu, Shancheng Zhao, Zhetao Li, Renzhang Chen, Quanlong Guan.
 - **[TITS'25]** [An Efficient and Multi-Dimensional Privacy-Preserving Platoon Communication Scheme in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10844002/). Nuo Xu, Zhiquan Liu, Xuming Han, Quanlong Guan, Heng Sun, Xiujie Huang, Jianfeng Ma.
