@@ -7,10 +7,10 @@ nav: true
 
 The long-term research goal is to build AI models for modern education, such as deep learning models, pre-trained models, and large models. We create new theories, algorithms, applications, and open-source libraries to achieve our goal. These days, we are specifically interested in Knowledge Representation and Reasoning, Trustworthy AI, Security and Data Privacy, and AI for Education.
 
-Our research consists of the following topics with selected publications: [View by year](https://chanllon.github.io/publications/) | [Google Scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=en)
+Our research consists of the following topics with selected publications: [View by year](https://chanllon.github.io/publications/) · [Google Scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=en)
+{: style="margin-bottom: 0.25rem;"}
 
 ##### Awards
-
 * **Rethinking Variational Bayes in Community Detection from Graph Signal Perspective.** Guangdong Computer Federation, Best Paper Award '25.
 * **On the Role of Logical Separability in Knowledge Compilation.** Guangdong Computer Federation, Best Paper Award '24.
 * **Students' Experience of Online Learning during the COVID-19 Pandemic: A Province-Wide Survey Study.** British Journal of Educational Technology, Top Cited Article '21–22.
