@@ -17,7 +17,7 @@ nav: true
 
 <!-- #### Books
 
-<div class="publications">
+<div class="publications" style="overflow-x: auto;">
 
 {% for y in page.years %}
   {% bibliography -f books -q @*[year={{y}}]* %}
