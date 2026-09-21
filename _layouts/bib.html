@@ -81,9 +81,9 @@
             {% endunless %}
           {% endif %}
         {% endfor %}
-      </div>
+      </span>
 
-      <div style="padding-top: 0em; padding-bottom: 0px; margin-bottom: -.1em;">
+      <span style="display: inline;">
       {% if entry.type == "article" %}
         <em>{{entry.journal}}</em>
       {% elsif entry.type == "inproceedings" %}
@@ -155,9 +155,9 @@
         {% endif %}
         ]
 
-      </div>
+      </span>
       {% if entry.special %}
-        <div><b>({{entry.special}})</b></div>
+        <span><b>({{entry.special}})</b></span>
       {% endif %}
     {% endif %}
 
