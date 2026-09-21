@@ -16,8 +16,8 @@
     {% if entry.type == "thesis" %}
       {{reference}}
     {% else %}
-      <div class="title" style="padding-top: 0em; padding-bottom: 0px; margin-bottom: 0em;">{{entry.title}}</div>
-      <div class="author" style="padding-top: 0em; padding-bottom: 0px; margin-bottom: 0em;">
+      <span class="title" style="display: inline;">{{entry.title}}.</span>
+      <span class="author" style="display: inline;">
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}
           {% if author.last == site.scholar.last_name%}
