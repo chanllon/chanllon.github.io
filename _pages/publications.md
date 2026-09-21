@@ -28,8 +28,8 @@ nav: true
 #### Selected Papers
 <div class="publications">
 {% for y in page.years %}
-- **[ <div>{{y}}</div> ]**
-    - ** {% bibliography -f pubs -q @*[year={{y}}]* %} **
+-  <div>{**[{y}]**}</div>
+    - {% bibliography -f pubs -q @*[year={{y}}]* %}
  
 {% endfor %}
 
