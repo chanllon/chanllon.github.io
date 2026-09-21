@@ -5,7 +5,7 @@ title: Research
 nav: true
 ---
 
-The long-term research goal is to build AI models for modern education, such as deep learning models, pre-trained models, and large models. We create new theories, algorithms, applications, and open-source libraries to achieve our goal. These days, we are specifically interested in Knowledge Representation and Reasoning, AI for Education and Recommendation, and Trustworthy AI, Security and Data Privacy.
+The long-term research goal is to Knowledge Representation, Embodied Intelligence‌, Knowledge Reasoning and Data Privacy. We create new theories, algorithms, applications, and open-source libraries to achieve our goal. These days, we are specifically interested in Knowledge Representation and Reasoning, AI for Education and Recommendation, and Trustworthy AI, Security and Data Privacy.
 
 Our research consists of the following topics with selected publications: [View by year](https://chanllon.github.io/publications/) &#124; [Google Scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=en)
 
