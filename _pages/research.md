@@ -12,7 +12,7 @@ These days, we are specifically interested in **Knowledge Representation and Rea
 Our research consists of the following topics with selected publications: [[View by year](https://chanllon.github.io/publications/)] [[Google scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN)]
 
 ##### Awards 
-- [Rethinking Variational Bayes inCommunity Detection from GraphSignal Perspective]. Guangdong Computer Federation, **[Best Paper Award '25]**
+- [Rethinking Variational Bayes in Community Detection from GraphSignal Perspective]. Guangdong Computer Federation, **[Best Paper Award '25]**
 - [On the role of logical separabilityin knowledge compilation]. Guangdong Computer Federation, **[Best Paper Award '24]** 
 - [Students'experience of online learning during the COVID-19pandemic: A province-wide survey study]. British Journal Of Educational Technology, **[Top Cited Article '21-22]** .
 - [Students'experience of online learning during the COVID-19pandemic: A province-wide survey study]. British Journal Of Educational Technology, **[Top Downloaded Article '21-22]** .
