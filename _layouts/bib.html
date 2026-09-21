@@ -1,2 +1,83 @@
---- ---
-{% if entry.type == "thesis" %} {{ reference }} {% else %} {{ entry.title }}. {% for author in entry.author_array %} {% assign author_is_self = false %} {% if author.last == site.scholar.last_name %} {% if site.scholar.first_name contains author.first %} {% assign author_is_self = true %} {% endif %} {% endif %} {% assign coauthor_url = nil %} {% if site.data.coauthors[author.last] %} {% for coauthor in site.data.coauthors[author.last] %} {% if coauthor.firstname contains author.first %} {% assign coauthor_url = coauthor.url %} {% break %} {% endif %} {% endfor %} {% endif %} {% if author_is_self %} {{ author.first }} {{ author.last }}{% if entry.corr %}#{% endif %} {% elsif coauthor_url %} {{ author.first }} {{ author.last }}{% if entry.corr %}#{% endif %} {% else %} {{ author.first }} {{ author.last }}{% if entry.corr and forloop.first %}#{% endif %} {% endif %} {% unless forloop.last %} {% if forloop.rindex == 2 %}, & {% else %}, {% endif %} {% endunless %} {% endfor %} . {% if entry.type == "article" %} {{ entry.journal }}{% if entry.abbr %} ({{ entry.abbr }}){% endif %} {% elsif entry.type == "inproceedings" %} In {{ entry.booktitle }}{% if entry.abbr %} ({{ entry.abbr }}){% endif %} {% elsif entry.publisher %} {{ entry.publisher }}{% if entry.abbr %} ({{ entry.abbr }}){% endif %} {% elsif entry.school %} {{ entry.school }} {% endif %}{% if entry.year %}, {{ entry.year }}{% endif %}. {% if entry.html %} {% if entry.html contains '://' %} HTML {% else %} HTML {% endif %} {% elsif entry.url %} {% if entry.url contains '://' %} HTML {% else %} HTML {% endif %} {% elsif entry.doi %} {% if entry.doi contains '://' %} HTML {% else %} HTML {% endif %} {% elsif entry.arxiv %} HTML {% endif %} {% if entry.special %} ({{ entry.special }}) {% endif %} {% endif %}
+---
+---
+
+<div id="{{ entry.key }}" class="publication-entry" style="display: block; width: max-content; min-width: 100%; white-space: nowrap;">
+  {% if entry.type == "thesis" %}
+    {{ reference }}
+  {% else %}
+    <strong class="title" style="font-weight: 700 !important;">{{ entry.title }}.</strong>
+
+    <span class="author">
+      {% for author in entry.author_array %}
+        {% assign author_is_self = false %}
+        {% if author.last == site.scholar.last_name %}
+          {% if site.scholar.first_name contains author.first %}
+            {% assign author_is_self = true %}
+          {% endif %}
+        {% endif %}
+
+        {% assign coauthor_url = nil %}
+        {% if site.data.coauthors[author.last] %}
+          {% for coauthor in site.data.coauthors[author.last] %}
+            {% if coauthor.firstname contains author.first %}
+              {% assign coauthor_url = coauthor.url %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+
+        {% if author_is_self %}
+          <strong style="font-weight: 700 !important;">{{ author.first }} {{ author.last }}</strong>{% if entry.corr %}<sup>#</sup>{% endif %}
+        {% elsif coauthor_url %}
+          <a href="{{ coauthor_url }}">{{ author.first }} {{ author.last }}</a>{% if entry.corr %}<sup>#</sup>{% endif %}
+        {% else %}
+          {{ author.first }} {{ author.last }}{% if entry.corr and forloop.first %}<sup>#</sup>{% endif %}
+        {% endif %}
+
+        {% unless forloop.last %}
+          {% if forloop.rindex == 2 %}, &amp; {% else %}, {% endif %}
+        {% endunless %}
+      {% endfor %}
+    </span>.
+
+    <span class="periodical">
+      {% if entry.type == "article" %}
+        <em>{{ entry.journal }}{% if entry.abbr %} ({{ entry.abbr }}){% endif %}</em>
+      {% elsif entry.type == "inproceedings" %}
+        In <em>{{ entry.booktitle }}{% if entry.abbr %} ({{ entry.abbr }}){% endif %}</em>
+      {% elsif entry.publisher %}
+        <em>{{ entry.publisher }}{% if entry.abbr %} ({{ entry.abbr }}){% endif %}</em>
+      {% elsif entry.school %}
+        <em>{{ entry.school }}</em>
+      {% endif %}{% if entry.year %}, {{ entry.year }}{% endif %}.
+    </span>
+
+    <span class="publication-links">
+      {% if entry.html %}
+        {% if entry.html contains '://' %}
+          <a href="{{ entry.html }}">HTML</a>
+        {% else %}
+          <a href="https://doi.org/{{ entry.html }}">HTML</a>
+        {% endif %}
+      {% elsif entry.url %}
+        {% if entry.url contains '://' %}
+          <a href="{{ entry.url }}">HTML</a>
+        {% else %}
+          <a href="https://doi.org/{{ entry.url }}">HTML</a>
+        {% endif %}
+      {% elsif entry.doi %}
+        {% if entry.doi contains '://' %}
+          <a href="{{ entry.doi }}">HTML</a>
+        {% else %}
+          <a href="https://doi.org/{{ entry.doi }}">HTML</a>
+        {% endif %}
+      {% elsif entry.arxiv %}
+        <a href="{{ entry.arxiv }}">HTML</a>
+      {% endif %}
+    </span>
+
+    {% if entry.special %}
+      <span class="publication-special"><strong>({{ entry.special }})</strong></span>
+    {% endif %}
+  {% endif %}
+</div>
