@@ -25,6 +25,9 @@ Our research consists of the following topics with selected publications: [[View
 
 **##### Knowledge Representation and Reasoning**
 (Personal website: [Google scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN))
+- **[KAIS'26]** [Enhancing Social Recommendation via Self-Supervised Social Relations Refinement](https://doi.org/10.1007/s10115-026-02829-8). Chaobo He, Xinran Chen, Feiyu Peng, Peng Mei, Huijuan Hu, Quanlong Guan.
+- **[SIGIR'26]** [Mitigating Evidence Suppression: Bi-level Active Evidence Injection for Educational Video Understanding](https://doi.org/10.1145/3805712.3809586). Cheng Liu, Yiping Wang, Quanlong Guan, Chaobo He, Xingyu Zhu, Liangda Fang.
+- **[CVPR'26]** [Vocabulary Scaling Law: Tuning Open-vocabulary Predictors for Their Openness](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Vocabulary_Scaling_Law_Tuning_Open-vocabulary_Predictors_for_Their_Openness_CVPR_2026_paper.html). Ziliang Chen, Yulu Li, Liangda Fang, Jusheng Zhang, Yongsen Zheng, Quanlong Guan, Xipeng Chen.
 - **[AAAI'26]** [Generating In-Distribution Counterfactual Explanation for Graph Neural Networks](https://doi.org/10.1609/aaai.v40i24.39108). Linmao Chen, Chaobo He, Junwei Cheng, Chunying Li, Quanlong Guan.
 - **[AAAI'26]** [GraphRAG-induced dual knowledge structure graphs for personalized learning path recommendation](https://doi.org/10.1609/aaai.v40i17.38479). Xinghe Cheng, Zihan Zhang, Jiapu Wang, Liangda Fang, Chaobo He, Quanlong Guan, Shirui Pan, Weiqi Luo.
 - **[NeurIPS'25]** [FerretNet: Efficient Synthetic Image Detection via Local Pixel Dependencies](https://arxiv.org/abs/2509.20890). Shuqiao Liang, Jian Liu, Renzhang Chen, Quanlong Guan.
