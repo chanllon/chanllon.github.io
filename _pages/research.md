@@ -17,7 +17,7 @@ Our research consists of the following topics with selected publications: [View 
 - **Students' Experience of Online Learning during the COVID-19 Pandemic: A Province-Wide Survey Study.** British Journal of Educational Technology, Top Downloaded Article '21–22.
 - **Adaptive Convolutional Time Series Evaluation for Attack Behavior Postures.** International Conference on Electrical, Electronics and Information Science (EEIS 2024), Best Paper Award.
 
-##### Knowledge Representation and Reasoning (Personal website: [Google Scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN))
+##### Knowledge Representation, Embodied Intelligence‌ and Reasoning (Personal website: [Google Scholar](https://scholar.google.com/citations?user=v4JiSqsAAAAJ&hl=zh-CN))
 
 - **[AAAI'26]** [Generating In-Distribution Counterfactual Explanation for Graph Neural Networks](https://doi.org/10.1609/aaai.v40i24.39108). Linmao Chen, Chaobo He, Junwei Cheng, Chunying Li, Quanlong Guan.
 - **[CVPR'26]** [Vocabulary Scaling Law: Tuning Open-Vocabulary Predictors for Their Openness](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Vocabulary_Scaling_Law_Tuning_Open-vocabulary_Predictors_for_Their_Openness_CVPR_2026_paper.html). Ziliang Chen, Yulu Li, Liangda Fang, Jusheng Zhang, Yongsen Zheng, Quanlong Guan, Xipeng Chen.
@@ -59,7 +59,7 @@ Our research consists of the following topics with selected publications: [View 
 - **[CogSci'23]** [An Interpretable Model with Forgetting Matrix for Deep Knowledge Tracing](https://escholarship.org/uc/item/6fk301r7). Quanlong Guan, Kaiquan Bian, Liangda Fang, Sheng Li, Zhenyu He, Hua Zheng, Lusheng Wu, Weiqi Luo.
 - **[CIKM'22]** [Cognitive Diagnosis Focusing on Knowledge Concepts](https://doi.org/10.1145/3511808.3557096). Sheng Li, Quanlong Guan, Liangda Fang, Fang Xiao, Zhenyu He, Yizhou He, Weiqi Luo.
 
-##### Trustworthy AI, Security and Data Privacy
+##### Trustworthy AI, Reliability, Security and Data Privacy
 
 - **[NeurIPS'25]** [FerretNet: Efficient Synthetic Image Detection via Local Pixel Dependencies](https://arxiv.org/abs/2509.20890). Shuqiao Liang, Jian Liu, Renzhang Chen, Quanlong Guan.
 - **[TITS'25]** [Task Offloading Based on the Fusion of Model- and Data-Driven Intelligence for Vehicular Edge Computing Networks](https://doi.org/10.1109/TITS.2025.3546304). Xiujie Huang, Yuhao Chen, Zhiquan Liu, Shancheng Zhao, Zhetao Li, Renzhang Chen, Quanlong Guan.
