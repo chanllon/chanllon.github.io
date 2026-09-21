@@ -4,7 +4,7 @@ layout: page
 permalink: /research/
 title: Research
 nav: true
----------
+---
 
 The long-term research goal is to build AI models for modern education, such as deep learning models, pre-trained models, and large models. We create new theories, algorithms, applications, and open-source libraries to achieve our goal. These days, we are specifically interested in Knowledge Representation and Reasoning, Trustworthy AI, Security and Data Privacy, and AI for Education.
 
