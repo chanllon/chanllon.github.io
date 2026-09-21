@@ -26,9 +26,7 @@ nav: true
 </div> -->
 
 #### Selected Papers
-
 <div class="publications">
-
 {% for y in page.years %}
 - **[ <div>{{y}}</div> ]**
     {% bibliography -f pubs -q @*[year={{y}}]* %}
