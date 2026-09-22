@@ -21,7 +21,7 @@ Current Post-Doc:
   - Outcomes during Master Stage: IJCAI'24. [A multi-valued decision diagram Path](https://www.ijcai.org/proceedings/2024/0219.pdf). **Excellent master student.**
 - 2022.09 -- 2025.07, **Zhi Chen**, Master @ Jinan University. Now:  Zhuhai Xiangyi Aviation Technology Co., Ltd.
   - Topics: Knowledge Representation.
-  - Outcomes during Master Stage: 1.CIKM'26. [Educational Content]([https://doi.org/10.1609/aaai.v36i5.20529](https://doi.org/10.1145/3746252.3761046). 2.ICASSP 2024. **Excellent master student.**
+  - Outcomes during Master Stage: 1.CIKM'26. [Educational Content](https://doi.org/10.1145/3746252.3761046). 2.ICASSP 2024. **Excellent master student.**
 - 2020.09 -- 2023.07, **Junmin Qiu**, Master @ Jinan University. Now: Ph.D @ Sun Yat-Sen University.
   - Topics: Knowledge Reasoning.
   - Outcomes during Master Stage: AAAI'22. [Logical Separability](https://doi.org/10.1609/aaai.v36i5.20529). **Excellent master student.**
