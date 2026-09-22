@@ -13,6 +13,9 @@ Current Post-Doc:
 - 2022.09 -- present, Zhiyuan Xun, PhD @ Beijing Jiaotong University.
 
 #### Alumni :
+- 2023.09 -- 2026.07, **Min Zhan**, Master @ Jinan University. Now: Lemon Technology (Shenzhen) Co., Ltd.
+  - Topics: Knowledge Reasoning.
+  - Outcomes during Master Stage: IJCAI'25. [Conformant Planning](https://www.ijcai.org/proceedings/2025/0945.pdf). **Excellent master student.**
 - 2022.09 -- 2025.07, **Tian Zhang**, Master @ Jinan University. Now: Ph.D @ Wuhan University.
   - Topics: Securiy of Intelligent Transportation Systems.
   - Outcomes during Master Stage: 1.IEEE Internet of Things Journal. [Intelligent Transportation Systems](https://doi.org/10.1109/JIOT.2024.3518636);2.IEEE Transactions on Vehicular Technology. [Assessment for Safety Risk](https://doi.org/10.1109/TVT.2024.3469389) **Excellent master student.**
