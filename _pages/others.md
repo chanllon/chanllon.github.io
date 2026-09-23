@@ -9,8 +9,8 @@ nav: true
 
 Current Post-Doc:
 
-- 2022.05 -- present, [Gaobo Chen](https://uk.linkedin.com/in/gaobo-chen-8b7483110), PhD @ Coventry University.
-- 2022.09 -- present, Zhiyuan Xun, PhD @ Beijing Jiaotong University.
+- 2022.05 -- 2026.09, [Gaobo Chen](https://uk.linkedin.com/in/gaobo-chen-8b7483110), PhD @ Coventry University.
+- 2022.09 -- 2026.09, Zhiyuan Xun, PhD @ Beijing Jiaotong University.
 
 #### Alumni :
 - 2023.09 -- 2026.07, **Min Zhan**, Master @ Jinan University. Now: Lemon Technology (Shenzhen) Co., Ltd.
