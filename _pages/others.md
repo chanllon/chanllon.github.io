@@ -32,6 +32,11 @@ Current Post-Doc:
   - Topics: Artificial Intelligence Generation (AIGC).
   - Outcomes during Master Stage: Pattern Recognition. Paper:[AI Discovery](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001406). **Excellent master student.**
 
+#### Visiting ‌scholar‌s :
+- 2026.09 -- , Liangliang Ma, Associate Professor @ Guangzhou Polytechnic University.
+
+
+
 #### Collaborating students : 
 
 **Ph.D student :**
