@@ -6,11 +6,11 @@ nav: true
 ---
 
 #### Post-Doc :
-
-Current Post-Doc:
-
 - 2022.05 -- 2026.09, [Gaobo Chen](https://uk.linkedin.com/in/gaobo-chen-8b7483110), PhD @ Coventry University.
 - 2022.09 -- 2026.09, Zhiyuan Xun, PhD @ Beijing Jiaotong University.
+
+#### Visiting ‌scholar‌s :
+- 2026.09 -- , Liangliang Ma, Associate Professor @ Guangzhou Polytechnic University.
 
 #### Alumni :
 - 2023.09 -- 2026.07, **Min Zhan**, Master @ Jinan University. Now: Lemon Technology (Shenzhen) Co., Ltd.
@@ -31,10 +31,6 @@ Current Post-Doc:
 - 2019.09 -- 2022.06, **Xianbin Ye**, Master @ Jinan University.
   - Topics: Artificial Intelligence Generation (AIGC).
   - Outcomes during Master Stage: Pattern Recognition. Paper:[AI Discovery](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001406). **Excellent master student.**
-
-#### Visiting ‌scholar‌s :
-- 2026.09 -- , Liangliang Ma, Associate Professor @ Guangzhou Polytechnic University.
-
 
 
 #### Collaborating students : 
