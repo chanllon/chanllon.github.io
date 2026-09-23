@@ -6,19 +6,19 @@ nav: true
 ---
 
 #### Post-Doc :
-- 2022.05 -- 2026.09, [Gaobo Chen](https://uk.linkedin.com/in/gaobo-chen-8b7483110), PhD @ Coventry University.
-- 2022.09 -- 2026.09, Zhiyuan Xun, PhD @ Beijing Jiaotong University.
+- 2022.05 -- 2026.09, **[Gaobo Chen]**(https://uk.linkedin.com/in/gaobo-chen-8b7483110), PhD @ Coventry University.
+- 2022.09 -- 2026.09, **Zhiyuan Xun**, PhD @ Beijing Jiaotong University.
 
 #### Visiting ‌scholar‌s :
-- 2026.09 -- 2027.09, Liangliang Ma, Associate Professor @ Guangzhou Polytechnic University.
-- 2026.09 -- 2027.09, Jing Gao, Professor @ Guangdong Songshan Polytechnic.
-- 2026.09 -- 2027.09, Feifei Niu, Professor @ Guangzhou Vocational University of Science and Technology.
-- 2026.09 -- 2027.09, Yinhang Zhou, Lecturer @ Guangzhou Nanyang Polytechnic College.
-- 2025.09 -- 2026.09, Lili Wang, Associate Professor @ Dongguan City University.
-- 2025.09 -- 2026.09, Zongmei Liu, Associate Professor @ Guangdong Justice Police Vocational College.
-- 2025.09 -- 2026.09, Shuo Wen, Associate Professor @ Guangdong Police College.
-- 2024.09 -- 2025.09, Zhuoheng Wu, Associate Professor @ Guangdong Technology College.
-- 2023.09 -- 2024.09, Lian Lu, Associate Professor @ Zhongshan Torch Polytechnic.
+- 2026.09 -- 2027.09, **Liangliang Ma**, Associate Professor @ Guangzhou Polytechnic University.
+- 2026.09 -- 2027.09, **Jing Gao**, Professor @ Guangdong Songshan Polytechnic.
+- 2026.09 -- 2027.09, **Feifei Niu**, Professor @ Guangzhou Vocational University of Science and Technology.
+- 2026.09 -- 2027.09, **Yinhang Zhou**, Lecturer @ Guangzhou Nanyang Polytechnic College.
+- 2025.09 -- 2026.09, **Lili Wang**, Associate Professor @ Dongguan City University.
+- 2025.09 -- 2026.09, **Zongmei Liu**, Associate Professor @ Guangdong Justice Police Vocational College.
+- 2025.09 -- 2026.09, **Shuo Wen**, Associate Professor @ Guangdong Police College.
+- 2024.09 -- 2025.09, **Zhuoheng Wu**, Associate Professor @ Guangdong Technology College.
+- 2023.09 -- 2024.09, **Lian Lu**, Associate Professor @ Zhongshan Torch Polytechnic.
 
 #### Alumni :
 - 2023.09 -- 2026.07, **Min Zhan**, Master @ Jinan University. Now: Lemon Technology (Shenzhen) Co., Ltd.
