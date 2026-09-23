@@ -73,31 +73,35 @@ Current Post-Doc:
 - Jiahao Luo, Bachelor @ Southwest Jiaotong University.
 - Yuhao Lin, Bachelor @ South China Normal University.
 
-**2023 Master student :**
-- XuFang Zhou, Bachelor @ Xiangtan University.
-- Zhuzhou Li, Bachelor @ North China University of Water Resources and Electric Power.
-- Zhijian Yi, Bachelor @ Jinan University.
-- Xiaotin Xie, Bachelor @ Jimei University.
-- Jiandon He, Bachelor(Hongkong) @ Jinan University.
-- Datin Tan, Bachelor(Hongkong) @ Jinan University.
-- Zihan Zhang, Bachelor @ Foshan University.
-- Min Zhan, Bachelor @ Changsha University of Science & Technology.
+**2026 Master student :**
+- XuFang Zhou, Bachelor @ Xiangtan University. Bank of China, Software Center.
+- Zhuzhou Li, Bachelor @ North China University of Water Resources and Electric Power. Dongguan Rural Commercial Bank Co., Ltd.
+- Zhijian Yi, Bachelor @ Jinan University. The Grid and Big Data Administration Center. Nantou Town, Zhongshan City.
+- Xiaotin Xie, Bachelor @ Jimei University. Midea Group Co., Ltd.
+- Jiandon He, Bachelor(Hongkong) @ Jinan University. NovaStar Technology Co., Ltd. / NovaStar.
+- Datin Tan, Bachelor(Hongkong) @ Jinan University. Emdoor Information Co., Ltd.
+- Zihan Zhang, Bachelor @ Foshan University. The Organization Department of the CPC Raoping County Committee. Raoping county‌.
+- Min Zhan, Bachelor @ Changsha University of Science & Technology. Lemon Technology (Shenzhen) Co., Ltd.
 - Yue Xu, Bachelor @ Hunan University of Science and Technology.
-- Jin Ton, Bachelor @ Changsha University of Science & Technology.
+- Jin Ton, Bachelor @ Changsha University of Science & Technology. Beijing Xuena Baichuan Education Technology Co., Ltd.
+- Yibo Zeng, Huawei Technologies Co., Ltd.
+- Yue Yin, Shenzhen Tianyuan Dic Information Technology Co., Ltd.
+Xiaoting Xie, Midea Group Co., Ltd.
+
 
 **2025 Graduated Student :**
-- Jiayu Zeng, Huawei Technologies Co., Ltd.
-- Sitong Chen, Air Force Early Warning Academy, People’s Liberation Army of China.
-- Zhi Chen, Zhuhai Xiangyi Aviation Technology Co., Ltd.
-- Xiaoxuan Fan, Beijing Sankuai Online Technology Co., Ltd. / Meituan.
-- Zhenhao Gu, Guangzhou Tencent Technology Co., Ltd.
-- Wenshan Guan, JD.com, Inc. / Jingdong Group.
-- Yulu Li, Bank of China, Hainan Branch.
-- Chuanghong Lin, China Petroleum & Chemical Corporation / Sinopec.
+- Jiayu Zeng, 2023, Master @ Huawei Technologies Co., Ltd.
+- Sitong Chen, 2023, Master @ Air Force Early Warning Academy, People’s Liberation Army of China.
+- Zhi Chen, 2023, Master @ Zhuhai Xiangyi Aviation Technology Co., Ltd.
+- Xiaoxuan Fan, 2023, Master @ Beijing Sankuai Online Technology Co., Ltd. / Meituan.
+- Zhenhao Gu, 2023, Master @ Guangzhou Tencent Technology Co., Ltd.
+- Wenshan Guan, 2023, Master @ JD.com, Inc. / Jingdong Group.
+- Yulu Li, 2023, Master @ Bank of China, Hainan Branch.
+- Chuanghong Lin, 2023, Master @ China Petroleum & Chemical Corporation / Sinopec.
 - Xiaoman Wang, Alibaba Group Holding Limited.
-- Meihong Yang, Beijing Didi Infinity Technology and Development Co., Ltd. / DiDi.
-- Mingwei Zhang, University of Amsterdam. Phd.
-- Tian Zhang , Wuhan University. Phd.
+- Meihong Yang, 2023, Master @ Beijing Didi Infinity Technology and Development Co., Ltd. / DiDi.
+- Mingwei Zhang, 2023, Master @ University of Amsterdam. Phd.
+- Tian Zhang, 2023, Master @ Wuhan University. Phd.
 
 **2024 Graduated Student :**
 - Yuan Wang, 2022, Master @ Bank of Communications Co., Ltd. (co-advise)
@@ -105,52 +109,52 @@ Current Post-Doc:
 - Deyuan Zhong, 2022, Master @ Kingsoft Corporation Limited.
 - Jinneng He, 2022, Master @ Huawei Technologies Co., Ltd.
 - Zhonghu Lin, 2022, Master @ China National Nuclear Corporation. (co-advise)
-- Jianwei Gan, 2022, Master @ Tencent Technology (Shenzhen) Company Limited. (co-advise)
-- Kaiquan Bian, 2022, Master @ Taobao and Tmall Group. (co-advise)
-- Xing He, 2022, Master @ Huawei Technologies Co., Ltd.
-- Fang Xiao, 2022, Master @ China Construction Bank.
-- Yanchong Yu, 2022, Master @ BYD Company Limited.
-- Wenzhuo Yang, 2022, Master @ Beijing Science and Technology Co., three fast online.
-- Shikang Chen, 2022, Master @ Huawei Technologies Co., Ltd. (co-advise)
-- Jiawei Lei, 2022, Master @ Liby Science and Technology.
+- Jianwei Gan, 2022, Master, Tencent Technology (Shenzhen) Company Limited. (co-advise)
+- Kaiquan Bian, 2022, Master, Taobao and Tmall Group. (co-advise)
+- Xing He, 2022, Master, Huawei Technologies Co., Ltd.
+- Fang Xiao, 2022, Master, China Construction Bank.
+- Yanchong Yu, 2022, Master, BYD Company Limited.
+- Wenzhuo Yang, 2022, Master, Beijing Science and Technology Co., three fast online.
+- Shikang Chen, 2022, Master, Huawei Technologies Co., Ltd. (co-advise)
+- Jiawei Lei, 2022, Master, Liby Science and Technology.
 - WONG HOCK ZHI, 2022, Master (Malaysia)  @ Jinan University.
 - Guanzhi Chen, 2022, Master (Taiwan) @ Jinan University.
 - Yujing Kuang, 2022, Master, College of Journalism and Communication,  @ Jinan University.
 
 **2023 Graduated Student :**
-- Junming Qiu, 2020, Master @ Sun Yat-sen University, Phd student.
-- WenQing Li, 2020, Master @ China Mobile Information Technology Co., Ltd.
-- Tong Zhu, 2020, Master @ Agricultural Bank of China Dongguan Branch.
-- Guoxiong Wei, 2020, Master @ SHEIN. Guangzhou
-- Sheng Li, 2020, Master @ China Construction Bank. Shenzhen
-- Minzhi Chen, 2020, Master @ .
-- Hao Miao, 2020, Master @ Bohai Bank Co., Ltd. (co-advise)
-- Yonghong Li, 2020, Master @ MediaTek Inc. (co-advise)
-- Chang Chen, 2020, Master @ Genimous Technology. (co-advise)
-- Yi Huang, 2020, Master @ New H3C Technologies Co., Ltd. (co-advise)
-- Dingliang Cheng, 2020, Master @ East Money Information Co., Ltd. (co-advise)
+- Junming Qiu, 2020, Master, Sun Yat-sen University, Phd student.
+- WenQing Li, 2020, Master, China Mobile Information Technology Co., Ltd.
+- Tong Zhu, 2020, Master, Agricultural Bank of China Dongguan Branch.
+- Guoxiong Wei, 2020, Master, SHEIN. Guangzhou
+- Sheng Li, 2020, Master, China Construction Bank. Shenzhen
+- Minzhi Chen, 2020, Master @ Jinan University.
+- Hao Miao, 2020, Master, Bohai Bank Co., Ltd. (co-advise)
+- Yonghong Li, 2020, Master, MediaTek Inc. (co-advise)
+- Chang Chen, 2020, Master, Genimous Technology. (co-advise)
+- Yi Huang, 2020, Master, New H3C Technologies Co., Ltd. (co-advise)
+- Dingliang Cheng, 2020, Master, East Money Information Co., Ltd. (co-advise)
 - Yunlai Hao, Master @ 
   
 **2022 Graduated Student :**
-- Xianbin Ye, 2019, Master @ BaiduBaidu (China) Co., Ltd., Shenzhen
-- Haipen Che (co-advise), 2019 Master @. 
-- Fubi Du (co-advise),  2019 Master @ China Telecom Cloud Technology Co., Ltd.
-- Li Cai (co-advise) , 2019, Master @ ByteDance Ltd. 
-- Biao Li (co-advise) , 2019, Master @ SHEIN. Guangzhou
-- Ke Liu (co-advise), 2019, Master @ 
-- Yi Yuan (co-advise), 2019, Master @.
-- Gangxing Wen (co-advise), 2019 Master @. 
-- Guanggong Ge (co-advise), 2019 Master @ PDD Holdings Inc.
-- Junheng Lin, 2020, Master(Hongkong), College of Journalism and Communication, @
-- Yongkuang Mai, 2020, Master (Hongkong), College of Journalism and Communication, @
+- Xianbin Ye, 2019, Master, BaiduBaidu (China) Co., Ltd., Shenzhen
+- Haipen Che (co-advise), 2019 Master @ Jinan University. 
+- Fubi Du (co-advise),  2019 Master, China Telecom Cloud Technology Co., Ltd.
+- Li Cai (co-advise) , 2019, Master, ByteDance Ltd. 
+- Biao Li (co-advise) , 2019, Master, SHEIN. Guangzhou
+- Ke Liu (co-advise), 2019, Master @ Jinan University
+- Yi Yuan (co-advise), 2019, Master @ Jinan University.
+- Gangxing Wen (co-advise), 2019 Master @ Jinan University. 
+- Guanggong Ge (co-advise), 2019 Master, PDD Holdings Inc.
+- Junheng Lin, 2020, Master(Hongkong), College of Journalism and Communication, @ Jinan University.
+- Yongkuang Mai, 2020, Master (Hongkong), College of Journalism and Communication, @ Jinan University.
 
 **2021 Graduated Student :**
 - Dongling Liu, 2018 Master @. (co-advise)
-- Jian Wu, 2018 Master @. (co-advise), Sangfor Technologies Inc.
-- Fei Wang, 2018, Master, College of Journalism and Communication, @
+- Jian Wu, 2018 Master (co-advise), Sangfor Technologies Inc.
+- Fei Wang, 2018, Master, College of Journalism and Communication, @ Jinan University
 
 **2020 Graduated Student :**
-- Chuying Liu, 2017, Master @ Software Development Center of Industrial and Commercial Bank of China，Guangzhou
+- Chuying Liu, 2017, Master, Software Development Center of Industrial and Commercial Bank of China，Guangzhou
   
 **2015 Graduated Student :**
-- Zhengliang Jiang, 2013, Master @ Network and Education Center, Jinan University, Guangzhou
+- Zhengliang Jiang, 2013, Master, Network and Education Center, Jinan University, Guangzhou
