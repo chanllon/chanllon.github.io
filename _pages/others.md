@@ -86,7 +86,6 @@ Current Post-Doc:
 - Jin Ton, Bachelor @ Changsha University of Science & Technology. Beijing Xuena Baichuan Education Technology Co., Ltd.
 - Yibo Zeng, Huawei Technologies Co., Ltd.
 - Yue Yin, Shenzhen Tianyuan Dic Information Technology Co., Ltd.
-Xiaoting Xie, Midea Group Co., Ltd.
 
 
 **2025 Graduated Student :**
