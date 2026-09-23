@@ -10,7 +10,15 @@ nav: true
 - 2022.09 -- 2026.09, Zhiyuan Xun, PhD @ Beijing Jiaotong University.
 
 #### Visiting ‌scholar‌s :
-- 2026.09 -- , Liangliang Ma, Associate Professor @ Guangzhou Polytechnic University.
+- 2026.09 -- 2027.09, Liangliang Ma, Associate Professor @ Guangzhou Polytechnic University.
+- 2026.09 -- 2027.09, Jing Gao, Professor @ Guangdong Songshan Polytechnic.
+- 2026.09 -- 2027.09, Feifei Niu, Professor @ Guangzhou Vocational University of Science and Technology.
+- 2026.09 -- 2027.09, Yinhang Zhou, Lecturer @ Guangzhou Nanyang Polytechnic College.
+- 2025.09 -- 2026.09, Lili Wang, Associate Professor @ Dongguan City University.
+- 2025.09 -- 2026.09, Zongmei Liu, Associate Professor @ Guangdong Justice Police Vocational College.
+- 2025.09 -- 2026.09, Shuo Wen, Associate Professor @ Guangdong Police College.
+- 2024.09 -- 2025.09, Zhuoheng Wu, Associate Professor @ Guangdong Technology College.
+- 2023.09 -- 2024.09, Lian Lu, Associate Professor @ Zhongshan Torch Polytechnic.
 
 #### Alumni :
 - 2023.09 -- 2026.07, **Min Zhan**, Master @ Jinan University. Now: Lemon Technology (Shenzhen) Co., Ltd.
@@ -43,6 +51,23 @@ nav: true
 - Guansong Qin, 2025.09-, Master @ Henan University.
 - Hai Lin, 2025.09-, Master @ Shanghai Maritime University.
 - Chenxian He, 2025.09-, Master @ Lanzhou University of Technology. (co-advise)
+
+**2026 Master student :**
+- Tairan Zeng , Bachelor @ Jinan University
+- Xinhao Liao , Bachelor @ Shantou University
+- Justin Wu , Bachelor @ GuangDong university of technology
+- Yuling Deng , Bachelor @ Hunan University of Technology and Business
+- Yecheng Xiang , Bachelor @ Nanchang Hangkong University
+- Jacob Hong , Bachelor @ ChengDu university of technology
+- Beibei Lei, Bachelor @ Hunan University of Science and Technology
+- Jie Xiao, Bachelor @ Tianjin University of Science and Technology
+- YuenYauNg, Bachelor @ Jinan University
+- Zhicheng Huang, Bachelor @ Jiangxi University of Finance and Economics
+- Jinyuan Zhang, Bachelor @ Chongqing University Of Technology
+- Xingyuan Tong, Bachelor @ Fujian Agriculture and Forestry University
+- Ziqi Huang, Bachelor @ Nanchang Hangkong University
+- Kaijia Wei, Bachelor @ Changsha University of Science & Technology
+- Jianshu Wei, Bachelor @ Guilin University of Electronic Technology
 
 **2025 Master student :**
 - Guiyong Zhuang, Bachelor @ Guangzhou University.
