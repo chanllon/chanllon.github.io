@@ -53,21 +53,21 @@ nav: true
 - Chenxian He, 2025.09-, Master @ Lanzhou University of Technology. (co-advise)
 
 **2026 Master student :**
-- Tairan Zeng , Bachelor @ Jinan University
-- Xinhao Liao , Bachelor @ Shantou University
-- Justin Wu , Bachelor @ GuangDong university of technology
-- Yuling Deng , Bachelor @ Hunan University of Technology and Business
-- Yecheng Xiang , Bachelor @ Nanchang Hangkong University
-- Jacob Hong , Bachelor @ ChengDu university of technology
-- Beibei Lei, Bachelor @ Hunan University of Science and Technology
-- Jie Xiao, Bachelor @ Tianjin University of Science and Technology
-- YuenYauNg, Bachelor @ Jinan University
-- Zhicheng Huang, Bachelor @ Jiangxi University of Finance and Economics
-- Jinyuan Zhang, Bachelor @ Chongqing University Of Technology
-- Xingyuan Tong, Bachelor @ Fujian Agriculture and Forestry University
-- Ziqi Huang, Bachelor @ Nanchang Hangkong University
-- Kaijia Wei, Bachelor @ Changsha University of Science & Technology
-- Jianshu Wei, Bachelor @ Guilin University of Electronic Technology
+- Tairan Zeng , Bachelor @ Jinan University.
+- Xinhao Liao , Bachelor @ Shantou University.
+- Justin Wu , Bachelor @ GuangDong university of technology.
+- Yuling Deng , Bachelor @ Hunan University of Technology and Business.
+- Yecheng Xiang , Bachelor @ Nanchang Hangkong University.
+- Jacob Hong , Bachelor @ ChengDu university of technology.
+- Beibei Lei, Bachelor @ Hunan University of Science and Technology.
+- Jie Xiao, Bachelor @ Tianjin University of Science and Technology.
+- YuenYauNg, Bachelor @ Jinan University.
+- Zhicheng Huang, Bachelor @ Jiangxi University of Finance and Economics.
+- Jinyuan Zhang, Bachelor @ Chongqing University Of Technology.
+- Xingyuan Tong, Bachelor @ Fujian Agriculture and Forestry University.
+- Ziqi Huang, Bachelor @ Nanchang Hangkong University.
+- Kaijia Wei, Bachelor @ Changsha University of Science & Technology.
+- Jianshu Wei, Bachelor @ Guilin University of Electronic Technology.
 
 **2025 Master student :**
 - Guiyong Zhuang, Bachelor @ Guangzhou University.
