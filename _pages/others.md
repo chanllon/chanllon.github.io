@@ -15,22 +15,22 @@ Current Post-Doc:
 #### Alumni :
 - 2023.09 -- 2026.07, **Min Zhan**, Master @ Jinan University. Now: Lemon Technology (Shenzhen) Co., Ltd.
   - Topics: Knowledge Reasoning.
-  - Outcomes during Master Stage: IJCAI'25. [Conformant Planning](https://www.ijcai.org/proceedings/2025/0945.pdf). **Excellent master student.**
+  - Outcomes during Master Stage: IJCAI'25. Paper: [Conformant Planning](https://www.ijcai.org/proceedings/2025/0945.pdf). **Excellent master student.**
 - 2022.09 -- 2025.07, **Tian Zhang**, Master @ Jinan University. Now: Ph.D @ Wuhan University.
   - Topics: Securiy of Intelligent Transportation Systems.
-  - Outcomes during Master Stage: 1.IEEE Internet of Things Journal. [Intelligent Transportation Systems](https://doi.org/10.1109/JIOT.2024.3518636);2.IEEE Transactions on Vehicular Technology. [Assessment for Safety Risk](https://doi.org/10.1109/TVT.2024.3469389) **Excellent master student.**
+  - Outcomes during Master Stage: 1.IEEE Internet of Things Journal. Paper: [Intelligent Transportation Systems](https://doi.org/10.1109/JIOT.2024.3518636); 2.IEEE Transactions on Vehicular Technology. Paper: [Assessment for Safety Risk](https://doi.org/10.1109/TVT.2024.3469389) **Excellent master student.**
 - 2022.09 -- 2025.07, **Mingwei Zhang**, Master @ Jinan University. Now: Ph.D @ University of Amsterdam.
   - Topics: Knowledge Reasoning.
-  - Outcomes during Master Stage: IJCAI'24. [A multi-valued decision diagram Path](https://www.ijcai.org/proceedings/2024/0219.pdf). **Excellent master student.**
+  - Outcomes during Master Stage: IJCAI'24. Paper: [A multi-valued decision diagram Path](https://www.ijcai.org/proceedings/2024/0219.pdf). **Excellent master student.**
 - 2022.09 -- 2025.07, **Zhi Chen**, Master @ Jinan University. Now:  Zhuhai Xiangyi Aviation Technology Co., Ltd.
   - Topics: Knowledge Representation.
-  - Outcomes during Master Stage: 1.CIKM'26. [Educational Content](https://doi.org/10.1145/3746252.3761046). 2.ICASSP 2024. **Excellent master student.**
+  - Outcomes during Master Stage: 1.CIKM'26. Paper: [Educational Content](https://doi.org/10.1145/3746252.3761046). 2.ICASSP 2024. **Excellent master student.**
 - 2020.09 -- 2023.07, **Junmin Qiu**, Master @ Jinan University. Now: Ph.D @ Sun Yat-Sen University.
   - Topics: Knowledge Reasoning.
-  - Outcomes during Master Stage: AAAI'22. [Logical Separability](https://doi.org/10.1609/aaai.v36i5.20529). **Excellent master student.**
+  - Outcomes during Master Stage: AAAI'22. Paper:[Logical Separability](https://doi.org/10.1609/aaai.v36i5.20529). **Excellent master student.**
 - 2019.09 -- 2022.06, **Xianbin Ye**, Master @ Jinan University.
   - Topics: Artificial Intelligence Generation (AIGC).
-  - Outcomes during Master Stage: Pattern Recognition [AI Discovery](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001406). **Excellent master student.**
+  - Outcomes during Master Stage: Pattern Recognition. Paper:[AI Discovery](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001406). **Excellent master student.**
 
 #### Collaborating students : 
 
