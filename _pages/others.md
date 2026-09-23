@@ -35,7 +35,6 @@ Current Post-Doc:
 #### Collaborating students : 
 
 **Ph.D student :**
-- Xiuliang Duan, 2022.09-. Master @ Shandong University of Science and Technology.
 - Delong Li, 2022.09-, Master @ Hong Kong Baptist University.
 - Xinghe Cheng, 2023.09-, Master @ Guilin University Of Electronic Technology. (co-advise)
 - Cheng Liu, 2024.09-, Master @ Guangzhou University.
@@ -73,7 +72,8 @@ Current Post-Doc:
 - Jiahao Luo, Bachelor @ Southwest Jiaotong University.
 - Yuhao Lin, Bachelor @ South China Normal University.
 
-**2026 Master student :**
+**2026 Graduated student :**
+- Xiuliang Duan, 2022.09-2026.07. Master @ Shandong University of Science and Technology. Phd @ Jinan University. Postdoctoral：Shenzhen University of Advanced Technology.
 - XuFang Zhou, Bachelor @ Xiangtan University. Bank of China, Software Center.
 - Zhuzhou Li, Bachelor @ North China University of Water Resources and Electric Power. Dongguan Rural Commercial Bank Co., Ltd.
 - Zhijian Yi, Bachelor @ Jinan University. The Grid and Big Data Administration Center. Nantou Town, Zhongshan City.
